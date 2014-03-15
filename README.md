@@ -8,7 +8,8 @@ Collection if libraries starred during some years of Android Development. Here i
 [UI](#ui)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Widgets](#widgets)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [TextView](#textview)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Other](#other) 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Other](#other)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Animation](#animation)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Maps](#maps)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Validation](#validation)  
 [Network](#network)  
@@ -41,6 +42,12 @@ Collection if libraries starred during some years of Android Development. Here i
 | :----------: | :--------: |
 | [Android Sliding Up Panel](https://github.com/umano/AndroidSlidingUpPanel) | Android Sliding Up Panel Demo
 
+
+### Animation
+
+| Title | Description |
+| :----------: | :--------: |
+| [Android Sliding Up Panel](https://github.com/umano/AndroidSlidingUpPanel)* | Android Sliding Up Panel Demo
 
 ### Maps
 
