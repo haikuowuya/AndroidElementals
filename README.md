@@ -107,9 +107,10 @@ Collection if libraries starred during some years of Android Development. Here i
 | :----------: | :--------: |
 [Butterknife](https://github.com/JakeWharton/butterknife) | View "injection" library for Android
 
+<br>
 ___
 ___
-__Samples__
+<center>__Samples__</center>
 ___
 ___
 
@@ -134,7 +135,7 @@ ___
 <br>
 ___
 ___
-__Tools__
+<center>__Tools__</center>
 ___
 ___
 
