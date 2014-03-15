@@ -7,6 +7,7 @@ Collection if libraries starred during some years of Android Development. Here i
 
 ## Categories
 
+<h6>Libraries</h6>
 [UI](#ui)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Widgets](#widgets)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [TextView](#textview)  
@@ -17,9 +18,9 @@ Collection if libraries starred during some years of Android Development. Here i
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Validation](#validation)  
 [Network](#network)  
 [OpenGL](#network)  
-[Dependency Injection](#dependency_injection)  
-  
-
+[DependencyInjection](#dependencyinjection)  
+<h6>Examples</h6>
+[DependencyInjection](#dependencyinjectionsamples)  
 
 
 
@@ -90,13 +91,20 @@ Collection if libraries starred during some years of Android Development. Here i
 | :----------: | :--------: |
 [Android Page Curl](https://github.com/harism/android_page_curl) | An example application for creating page curl/flip effect on Android using OpenGL ES
 
-## Dependency_Injection
+## DependencyInjection
 
 | Title | Description |
 | :----------: | :--------: |
 [Butterknife](https://github.com/JakeWharton/butterknife) | View "injection" library for Android
 [asd]()  
-[asdasd]()  | https://github.com/swankjesse/android-dagger-example
+[asdasd]()  | 
+
+
+## DependencyInjectionSamples
+
+| Title | Description |
+| :----------: | :--------: |
+[Android Dagger Example](https://github.com/swankjesse/android-dagger-example) |                                
 
 
 
