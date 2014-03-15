@@ -19,8 +19,8 @@ Collection if libraries starred during some years of Android Development. Here i
 [Network](#network)  
 [Tasks](#tasks)  
 [OpenGL](#network)  
-[DependencyInjection](#dependencyinjection) 
-[Testing](#testing)
+[DependencyInjection](#dependencyinjection)  
+[Testing](#testing)  
 <h6>Examples</h6>
 [Network](#networksamples)  
 [Tasks](#taskssamples)  
