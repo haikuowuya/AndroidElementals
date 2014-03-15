@@ -23,9 +23,9 @@ Collection if libraries starred during some years of Android Development. Here i
 <h6>Examples</h6>
 [Network](#networksamples)  
 [Tasks](#taskssamples)  
-[DependencyInjection](#dependencyinjectionsamples)  
-
-
+[DependencyInjection](#dependencyinjectionsamples)
+<h6>Tools</h6>
+[Testing](#testing)  
 
 ## UI
 
@@ -107,6 +107,10 @@ Collection if libraries starred during some years of Android Development. Here i
 | :----------: | :--------: |
 [Butterknife](https://github.com/JakeWharton/butterknife) | View "injection" library for Android
 
+---
+---
+---
+
 ## NetworkSamples
 
 | Title |
@@ -123,7 +127,17 @@ Collection if libraries starred during some years of Android Development. Here i
 
 | Title |
 | :----------: |
-| [Android Dagger Example](https://github.com/swankjesse/android-dagger-example) |                             
+| [Android Dagger Example](https://github.com/swankjesse/android-dagger-example) |       
+
+---
+---
+---
+
+## Testing
+
+| Title |
+| :----------: |
+| [Quality Tools for Android](https://github.com/stephanenicolas/Quality-Tools-for-Android) |  This is an Android sample app + tests that will be used to work on various project to increase the quality of the Android platform.   
 
 
 
