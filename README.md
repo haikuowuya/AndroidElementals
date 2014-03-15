@@ -108,9 +108,7 @@ Collection if libraries starred during some years of Android Development. Here i
 [Butterknife](https://github.com/JakeWharton/butterknife) | View "injection" library for Android
 
 <br>
----
----
----
+___
 <br>
 
 ## NetworkSamples
@@ -132,9 +130,7 @@ Collection if libraries starred during some years of Android Development. Here i
 | [Android Dagger Example](https://github.com/swankjesse/android-dagger-example) |       
 
 <br>
----
----
----
+___
 <br>
 
 ## Testing
