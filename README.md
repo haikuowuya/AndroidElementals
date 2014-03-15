@@ -6,10 +6,10 @@ Collection if libraries starred during some years of Android Development. Here i
 #### Categories
 
 
-* [UI](#ui)
-&nbsp;&nbsp; **[Maps]()   
++ [UI](#ui)   
+&nbsp;&nbsp; +[Maps]()   
 
-&nbsp;&nbsp; **[Widgets]()  
+&nbsp;&nbsp; +[Widgets]()  
 &nbsp;&nbsp;&nbsp;&nbsp;[TextView](#textview)
 
   
@@ -36,7 +36,7 @@ Collection if libraries starred during some years of Android Development. Here i
 
 | Title | Description |
 | :----------: | :--------: |
-| Clusterer | Clustering in Maps v2 for Android |
+| [Clusterer](https://github.com/mrmans0n/clusterer) | Clustering in Maps v2 for Android |
 
 
 
