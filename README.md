@@ -27,6 +27,15 @@ Collection if libraries starred during some years of Android Development. Here i
 <h6>Tools</h6>
 [Testing](#testing)  
 
+<br>
+___
+___
+___
+                                                 <h6>Libraries</h6>
+___
+___
+___
+
 ## UI
 
 ### Widgets
@@ -110,7 +119,9 @@ Collection if libraries starred during some years of Android Development. Here i
 <br>
 ___
 ___
-<center>Samples</center>
+___
+                                                 <h6>Samples</h6>
+___
 ___
 ___
 
@@ -135,7 +146,9 @@ ___
 <br>
 ___
 ___
-<center>Tools</center>
+___
+                                                 <h6>Tools</h6>
+___
 ___
 ___
 
