@@ -7,9 +7,9 @@ Collection if libraries starred during some years of Android Development. Here i
 
 
 + [UI](#ui)   
-&nbsp;&nbsp; +[Maps]()   
+&nbsp;&nbsp; + [Maps]()   
 
-&nbsp;&nbsp; +[Widgets]()  
+&nbsp;&nbsp; + [Widgets]()  
 &nbsp;&nbsp;&nbsp;&nbsp;[TextView](#textview)
 
   
