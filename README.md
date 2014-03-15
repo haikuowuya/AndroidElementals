@@ -6,8 +6,8 @@ Collection if libraries starred during some years of Android Development. Here i
 #### Categories
 
 
-[UI](#ui)  
-&nbsp;[TextView](#textview)
+* [UI](#ui)  
+&nbsp;&nbsp;&nbsp;&nbsp;[TextView](#textview)
   
 
 
