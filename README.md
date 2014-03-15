@@ -109,7 +109,7 @@ Collection if libraries starred during some years of Android Development. Here i
 
 | Title |
 | :----------: |
-[Robospice Samples](https://github.com/octo-online/RoboSpice-samples)
+| [Robospice Samples](https://github.com/octo-online/RoboSpice-samples) |
 
 ## DependencyInjectionSamples
 
