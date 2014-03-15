@@ -15,7 +15,7 @@ Collection if libraries starred during some years of Android Development. Here i
 
 ## UI
 
-| TextView | Description
+| TextView |    |
 | :----------: | :--------: |
 | [AutoFit TextView](https://github.com/grantland/android-autofittextview) | A TextView that automatically resizes text to fit perfectly within its bounds |
 | [Token AutoComplete](https://github.com/splitwise/TokenAutoComplete) | Gmail style MultiAutoCompleteTextView for Android |
