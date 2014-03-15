@@ -5,10 +5,10 @@ Collection if libraries starred during some years of Android Development. Here i
 
 ## Categories
 
-+ [UI](#ui)  
-&nbsp;&nbsp; [Maps]()   
-&nbsp;&nbsp; [Widgets]()  
-&nbsp;&nbsp; &nbsp;&nbsp; [TextView](#textview)
+[UI](#ui)  
+&nbsp;&nbsp;&nbsp;&nbsp; [Maps]()   
+&nbsp;&nbsp;&nbsp;&nbsp; [Widgets]()  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [TextView](#textview)
 
   
 
@@ -19,7 +19,7 @@ Collection if libraries starred during some years of Android Development. Here i
 
 ### Widgets
 
-<center> #### TextView
+#### TextView
 
 | Title | Description |
 | :----------: | :--------: |
