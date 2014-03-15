@@ -16,10 +16,12 @@ Collection if libraries starred during some years of Android Development. Here i
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Animation](#animation)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Maps](#maps)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Validation](#validation)  
-[Network](#network)  
+[Network](#network)
+[Tasks](#tasks) 
 [OpenGL](#network)  
 [DependencyInjection](#dependencyinjection)  
 <h6>Examples</h6>
+[Tasks](#taskssamples) 
 [DependencyInjection](#dependencyinjectionsamples)  
 
 
@@ -85,6 +87,12 @@ Collection if libraries starred during some years of Android Development. Here i
 | :----------: | :--------: |
 | [Merlin](https://github.com/novoda/merlin) | Observes network connection status & gives callbacks |
 
+## Tasks
+
+| Title | Description |
+| :----------: | :--------: |
+[Robospice](https://github.com/octo-online/robospice) | RoboSpice is a modular android library that makes writing asynchronous long running tasks easy. It is specialized in network requests, supports caching and offers REST requests out-of-the box using extension modules.
+
 ## OpenGL
 
 | Title | Description |
@@ -96,15 +104,18 @@ Collection if libraries starred during some years of Android Development. Here i
 | Title | Description |
 | :----------: | :--------: |
 [Butterknife](https://github.com/JakeWharton/butterknife) | View "injection" library for Android
-[asd]()  
-[asdasd]()  | 
 
+## TasksSamples
+
+| Title |
+| :----------: |
+[Robospice Samples](https://github.com/octo-online/RoboSpice-samples)
 
 ## DependencyInjectionSamples
 
-| Title | Description |
-| :----------: | :--------: |
-[Android Dagger Example](https://github.com/swankjesse/android-dagger-example) |                                
+| Title |
+| :----------: |
+[Android Dagger Example](https://github.com/swankjesse/android-dagger-example)                             
 
 
 
