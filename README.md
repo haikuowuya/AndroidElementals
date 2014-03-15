@@ -7,7 +7,7 @@ Collection if libraries starred during some years of Android Development. Here i
 
 
 [UI](#ui)  
-      [TextView](#textview)
+&nbsp;[TextView](#textview)
   
 
 
@@ -15,7 +15,7 @@ Collection if libraries starred during some years of Android Development. Here i
 
 ## UI
 
-### TextView
+#### TextView
 
 | Title | Description |
 | :----------: | :--------: |
