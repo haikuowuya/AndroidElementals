@@ -4,7 +4,7 @@ Android Libraries
 Collection if libraries starred during some years of Android Development. Here is the definitely list of android Open-Source libraries
 
 #### Categories
-* [UI](#ui)
+1. [UI](#ui)
 ⋅⋅⋅[TextView](#textview)
   
 
