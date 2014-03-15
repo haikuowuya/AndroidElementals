@@ -31,7 +31,7 @@ Collection if libraries starred during some years of Android Development. Here i
 ___
 ___
 ___
-                                                   __Libraries__
+                                                     Libraries
 ___
 ___
 ___
@@ -120,7 +120,7 @@ ___
 ___
 ___
 ___
-                                                       __Samples__
+                                                         Samples
 ___
 ___
 ___
@@ -147,7 +147,7 @@ ___
 ___
 ___
 ___
-                                                        __Tools__
+                                                          Tools
 ___
 ___
 ___
