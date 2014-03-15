@@ -18,13 +18,13 @@ Collection if libraries starred during some years of Android Development. Here i
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Validation](#validation)  
 [Network](#network)  
 [Tasks](#tasks)  
-[OpenGL](#network)  
-[DependencyInjection](#dependencyinjection)  
+[OpenGL](#opengl)  
+[Dependency Injection](#dependencyinjection)  
 [Testing](#testing)  
 <h6>Examples</h6>
 [Network](#networksamples)  
 [Tasks](#taskssamples)  
-[DependencyInjection](#dependencyinjectionsamples)
+[Dependency Injection](#dependencyinjectionsamples)
 <h6>Tools</h6>
 [Testing](#testingtools)  
 
