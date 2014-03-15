@@ -6,8 +6,12 @@ Collection if libraries starred during some years of Android Development. Here i
 #### Categories
 
 
-* [UI](#ui)  
+* [UI](#ui)
+&nbsp;&nbsp; **[Maps]()   
+
+&nbsp;&nbsp; **[Widgets]()  
 &nbsp;&nbsp;&nbsp;&nbsp;[TextView](#textview)
+
   
 
 
@@ -27,3 +31,12 @@ Collection if libraries starred during some years of Android Development. Here i
 | [Email AutoComplete TextView](https://github.com/greenhalolabs/EmailAutoCompleteTextView) | An AutoCompleteTextView optimized for email auto-complete |
 | [Shimmer Android](https://github.com/RomainPiel/Shimmer-android) | An Android TextView with a shimmering effect |
 | [Titanic](https://github.com/RomainPiel/Titanic) | Android experiment showing a sinking TextView |
+
+#### Maps
+
+| Title | Description |
+| :----------: | :--------: |
+| Clusterer | Clustering in Maps v2 for Android |
+
+
+
