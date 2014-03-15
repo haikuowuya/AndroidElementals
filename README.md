@@ -21,6 +21,7 @@ Collection if libraries starred during some years of Android Development. Here i
 [OpenGL](#network)  
 [DependencyInjection](#dependencyinjection)  
 <h6>Examples</h6>
+[Network](#networksamples)  
 [Tasks](#taskssamples)  
 [DependencyInjection](#dependencyinjectionsamples)  
 
@@ -65,33 +66,34 @@ Collection if libraries starred during some years of Android Development. Here i
 
 | Title | Description |
 | :----------: | :--------: |
-| [Android Sliding Up Panel](https://github.com/umano/AndroidSlidingUpPanel) * | Android Sliding Up Panel Demo
-| [Android FlipView](https://github.com/emilsjolander/android-FlipView) * | A small, easy to use android library for implementing flipping between views as seen in the popular Flipboard application |
-| [Android Flip](https://github.com/openaphid/android-flip) * | A component for flip animation on Android, which is similar to the effect in Flipboard iPhone/Android |
+[Android Sliding Up Panel](https://github.com/umano/AndroidSlidingUpPanel) * | Android Sliding Up Panel Demo
+[Android FlipView](https://github.com/emilsjolander/android-FlipView) * | A small, easy to use android library for implementing flipping between views as seen in the popular Flipboard application 
+[Android Flip](https://github.com/openaphid/android-flip) * | A component for flip animation on Android, which is similar to the effect in Flipboard iPhone/Android
 
 ### Maps
 
 | Title | Description |
 | :----------: | :--------: |
-| [Clusterer](https://github.com/mrmans0n/clusterer) | Clustering in Maps v2 for Android |
+[Clusterer](https://github.com/mrmans0n/clusterer) | Clustering in Maps v2 for Android
 
 ### Validation
 
 | Title | Description |
 | :----------: | :--------: |
-| [Android Saripaar](https://github.com/ragunathjawahar/android-saripaar) | UI Validation Library for Android |
+[Android Saripaar](https://github.com/ragunathjawahar/android-saripaar) | UI Validation Library for Android 
 
 ## Network
 
 | Title | Description |
 | :----------: | :--------: |
-| [Merlin](https://github.com/novoda/merlin) | Observes network connection status & gives callbacks |
+[Merlin](https://github.com/novoda/merlin) | Observes network connection status & gives callbacks 
+[Robospice](https://github.com/octo-online/robospice) | RoboSpice is a modular android library that makes writing asynchronous long running tasks easy. It is specialized in network requests, supports caching and offers REST requests out-of-the box using extension modules.
 
 ## Tasks
 
 | Title | Description |
 | :----------: | :--------: |
-[Robospice](https://github.com/octo-online/robospice) | RoboSpice is a modular android library that makes writing asynchronous long running tasks easy. It is specialized in network requests, supports caching and offers REST requests out-of-the box using extension modules.
+[Robospice](https://github.com/octo-online/robospice) * | RoboSpice is a modular android library that makes writing asynchronous long running tasks easy. It is specialized in network requests, supports caching and offers REST requests out-of-the box using extension modules.
 
 ## OpenGL
 
@@ -105,17 +107,23 @@ Collection if libraries starred during some years of Android Development. Here i
 | :----------: | :--------: |
 [Butterknife](https://github.com/JakeWharton/butterknife) | View "injection" library for Android
 
-## TasksSamples
+## NetworkSamples
 
 | Title |
 | :----------: |
 | [Robospice Samples](https://github.com/octo-online/RoboSpice-samples) |
 
+## TasksSamples
+
+| Title |
+| :----------: |
+| [Robospice Samples](https://github.com/octo-online/RoboSpice-samples) * |
+
 ## DependencyInjectionSamples
 
 | Title |
 | :----------: |
-[Android Dagger Example](https://github.com/swankjesse/android-dagger-example)                             
+| [Android Dagger Example](https://github.com/swankjesse/android-dagger-example) |                             
 
 
 
