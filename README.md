@@ -31,7 +31,7 @@ Collection if libraries starred during some years of Android Development. Here i
 ___
 ___
 ___
-                                                 <h6>Libraries</h6>
+                                                   __Libraries__
 ___
 ___
 ___
@@ -120,7 +120,7 @@ ___
 ___
 ___
 ___
-                                                 <h6>Samples</h6>
+                                                       __Samples__
 ___
 ___
 ___
@@ -147,7 +147,7 @@ ___
 ___
 ___
 ___
-                                                 <h6>Tools</h6>
+                                                        __Tools__
 ___
 ___
 ___
