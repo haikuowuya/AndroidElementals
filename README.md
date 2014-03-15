@@ -19,13 +19,14 @@ Collection if libraries starred during some years of Android Development. Here i
 [Network](#network)  
 [Tasks](#tasks)  
 [OpenGL](#network)  
-[DependencyInjection](#dependencyinjection)  
+[DependencyInjection](#dependencyinjection) 
+[Testing](#testing)
 <h6>Examples</h6>
 [Network](#networksamples)  
 [Tasks](#taskssamples)  
 [DependencyInjection](#dependencyinjectionsamples)
 <h6>Tools</h6>
-[Testing](#testing)  
+[Testing](#testingtools)  
 
 <br>
 ___
@@ -63,13 +64,13 @@ ___
 
 | Title | Description |
 | :----------: | :--------: |
-| [Android Sliding Up Panel](https://github.com/umano/AndroidSlidingUpPanel) | This type of a panel is a common pattern also used in the Google Music app and the Rdio app
-| [Android FlipView](https://github.com/emilsjolander/android-FlipView) | A small, easy to use android library for implementing flipping between views as seen in the popular Flipboard application |
-| [Android Flip](https://github.com/openaphid/android-flip) | A component for flip animation on Android, which is similar to the effect in Flipboard iPhone/Android |
-| [Showcase View](https://github.com/amlcurran/ShowcaseView) | Highlight the best bits of your app to users quickly, simply, and cool...ly |
-| [Android PDF View](https://github.com/JoanZapata/android-pdfview) | A fast PDF reader component for Android development |
-| [Android ViewBadger](https://github.com/jgilfelt/android-viewbadger) | A simple way to "badge" any given Android view at runtime without having to cater for it in layout |
-| [Quilt View Library](https://github.com/jacobmoncur/QuiltViewLibrary) | QuiltView displays views of different sizes in a scrollable grid
+[Android Sliding Up Panel](https://github.com/umano/AndroidSlidingUpPanel) | This type of a panel is a common pattern also used in the Google Music app and the Rdio app
+[Android FlipView](https://github.com/emilsjolander/android-FlipView) | A small, easy to use android library for implementing flipping between views as seen in the popular Flipboard application
+[Android Flip](https://github.com/openaphid/android-flip) | A component for flip animation on Android, which is similar to the effect in Flipboard iPhone/Android
+[Showcase View](https://github.com/amlcurran/ShowcaseView) | Highlight the best bits of your app to users quickly, simply, and cool...ly
+[Android PDF View](https://github.com/JoanZapata/android-pdfview) | A fast PDF reader component for Android development
+[Android ViewBadger](https://github.com/jgilfelt/android-viewbadger) | A simple way to "badge" any given Android view at runtime without having to cater for it in layout
+[Quilt View Library](https://github.com/jacobmoncur/QuiltViewLibrary) | QuiltView displays views of different sizes in a scrollable grid
 
 ### Animation
 
@@ -96,7 +97,10 @@ ___
 | Title | Description |
 | :----------: | :--------: |
 [Merlin](https://github.com/novoda/merlin) | Observes network connection status & gives callbacks 
-[Robospice](https://github.com/octo-online/robospice) | RoboSpice is a modular android library that makes writing asynchronous long running tasks easy. It is specialized in network requests, supports caching and offers REST requests out-of-the box using extension modules.
+[Robospice](https://github.com/octo-online/robospice) | RoboSpice is a modular android library that makes writing asynchronous long running tasks easy. It is specialized in network requests, supports caching and offers REST requests out-of-the box using extension modules
+[Android Volley](https://github.com/mcxiaoke/android-volley) | Android Volley Mirror
+[Retrofit](https://github.com/square/retrofit) | Type-safe REST client for Android and Java by Square, Inc
+[OkHttp](https://github.com/square/okhttp) | An HTTP+SPDY client for Android and Java applications
 
 ## Tasks
 
@@ -114,7 +118,16 @@ ___
 
 | Title | Description |
 | :----------: | :--------: |
-[Butterknife](https://github.com/JakeWharton/butterknife) | View "injection" library for Android
+[Butterknife](https://github.com/JakeWharton/butterknife) | Like Selenium, but for Android
+
+## Testing
+
+| Title | Description |
+| :----------: | :--------: |
+[Robotium](https://github.com/RobotiumTech/robotium) | View "injection" library for Android
+[Spoon](https://github.com/square/spoon) | Distributing instrumentation tests to all your Androids
+[Fest Android](https://github.com/square/fest-android) | A set of FEST assertion helpers geared toward testing Android
+
 
 <br>
 ___
@@ -152,7 +165,7 @@ ___
 ___
 ___
 
-## Testing
+## TestingTools
 
 | Title |
 | :----------: |
