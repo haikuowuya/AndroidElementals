@@ -8,8 +8,9 @@ Collection if libraries starred during some years of Android Development. Here i
 [UI](#ui)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Widgets](#widgets)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [TextView](#textview)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Other](#other) 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Maps](#maps)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Fields Validation](#fields validation)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Validation](#validation)  
 [Network](#network)  
 [OpenGL](#network)  
   
@@ -34,13 +35,20 @@ Collection if libraries starred during some years of Android Development. Here i
 | [Shimmer Android](https://github.com/RomainPiel/Shimmer-android) | An Android TextView with a shimmering effect |
 | [Titanic](https://github.com/RomainPiel/Titanic) | Android experiment showing a sinking TextView |
 
+#### Other
+
+| Title | Description |
+| :----------: | :--------: |
+| [Android Sliding Up Panel](https://github.com/umano/AndroidSlidingUpPanel) | Android Sliding Up Panel Demo
+
+
 ### Maps
 
 | Title | Description |
 | :----------: | :--------: |
 | [Clusterer](https://github.com/mrmans0n/clusterer) | Clustering in Maps v2 for Android |
 
-### Fields Validation
+### Validation
 
 | Title | Description |
 | :----------: | :--------: |
