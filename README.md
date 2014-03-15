@@ -3,6 +3,8 @@ Android Libraries
 
 Collection if libraries starred during some years of Android Development. Here is the definitely list of android Open Source libraries
 
+``` * In titles means it has been categorized more than once (in different categories) ```
+
 ## Categories
 
 [UI](#ui)  
@@ -41,13 +43,16 @@ Collection if libraries starred during some years of Android Development. Here i
 | Title | Description |
 | :----------: | :--------: |
 | [Android Sliding Up Panel](https://github.com/umano/AndroidSlidingUpPanel) | Android Sliding Up Panel Demo
-
+| [Android FlipView](https://github.com/emilsjolander/android-FlipView) | A small, easy to use android library for implementing flipping between views as seen in the popular Flipboard application |
+| [Android Flip](https://github.com/openaphid/android-flip) | A component for flip animation on Android, which is similar to the effect in Flipboard iPhone/Android |
 
 ### Animation
 
 | Title | Description |
 | :----------: | :--------: |
-| [Android Sliding Up Panel](https://github.com/umano/AndroidSlidingUpPanel)* | Android Sliding Up Panel Demo
+| [Android Sliding Up Panel](https://github.com/umano/AndroidSlidingUpPanel) * | Android Sliding Up Panel Demo
+| [Android FlipView](https://github.com/emilsjolander/android-FlipView) * | A small, easy to use android library for implementing flipping between views as seen in the popular Flipboard application |
+| [Android Flip](https://github.com/openaphid/android-flip) * | A component for flip animation on Android, which is similar to the effect in Flipboard iPhone/Android |
 
 ### Maps
 
