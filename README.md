@@ -10,6 +10,7 @@ Collection if libraries starred during some years of Android Development. Here i
 [UI](#ui)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Widgets](#widgets)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [TextView](#textview)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [ProgressBar](#textview)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Other](#other)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Animation](#animation)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Maps](#maps)  
@@ -29,22 +30,32 @@ Collection if libraries starred during some years of Android Development. Here i
 
 | Title | Description |
 | :----------: | :--------: |
-| [AutoFit TextView](https://github.com/grantland/android-autofittextview) | A TextView that automatically resizes text to fit perfectly within its bounds |
-| [Token AutoComplete](https://github.com/splitwise/TokenAutoComplete) | Gmail style MultiAutoCompleteTextView for Android |
-| [Android RobotoTextView](https://github.com/johnkil/Android-RobotoTextView) | Implementation of a TextView and all its direct/indirect subclasses with native support for the Roboto fonts, includes the brand new Roboto Slab fonts |
-| [Android Ago](https://github.com/curioustechizen/android-ago) | An Android TextView that always displays an auto refreshing relative time span with respect to a reference time |
-| [Timely TextView](https://github.com/adnan-SM/TimelyTextView) | Animated TextView like Timely app |
-| [Email AutoComplete TextView](https://github.com/greenhalolabs/EmailAutoCompleteTextView) | An AutoCompleteTextView optimized for email auto-complete |
-| [Shimmer Android](https://github.com/RomainPiel/Shimmer-android) | An Android TextView with a shimmering effect |
-| [Titanic](https://github.com/RomainPiel/Titanic) | Android experiment showing a sinking TextView |
+[AutoFit TextView](https://github.com/grantland/android-autofittextview) | A TextView that automatically resizes text to fit perfectly within its bounds |
+[Token AutoComplete](https://github.com/splitwise/TokenAutoComplete) | Gmail style MultiAutoCompleteTextView for Android 
+[Android RobotoTextView](https://github.com/johnkil/Android-RobotoTextView) | Implementation of a TextView and all its direct/indirect subclasses with native support for the Roboto fonts, includes the brand new Roboto Slab fonts 
+[Android Ago](https://github.com/curioustechizen/android-ago) | An Android TextView that always displays an auto refreshing relative time span with respect to a reference time 
+[Timely TextView](https://github.com/adnan-SM/TimelyTextView) | Animated TextView like Timely app 
+[Email AutoComplete TextView](https://github.com/greenhalolabs/EmailAutoCompleteTextView) | An AutoCompleteTextView optimized for email auto-complete 
+[Shimmer Android](https://github.com/RomainPiel/Shimmer-android) | An Android TextView with a shimmering effect 
+[Titanic](https://github.com/RomainPiel/Titanic) | Android experiment showing a sinking TextView 
+
+#### ProgressBar
+
+| Title | Description |
+| :----------: | :--------: |
+[Holo Circular ProgressBar](https://github.com/passsy/android-HoloCircularProgressBar) | is a Custom View implementation for Android you might know from the Android Clock
 
 #### Other
 
 | Title | Description |
 | :----------: | :--------: |
-| [Android Sliding Up Panel](https://github.com/umano/AndroidSlidingUpPanel) | Android Sliding Up Panel Demo
+| [Android Sliding Up Panel](https://github.com/umano/AndroidSlidingUpPanel) | This type of a panel is a common pattern also used in the Google Music app and the Rdio app
 | [Android FlipView](https://github.com/emilsjolander/android-FlipView) | A small, easy to use android library for implementing flipping between views as seen in the popular Flipboard application |
 | [Android Flip](https://github.com/openaphid/android-flip) | A component for flip animation on Android, which is similar to the effect in Flipboard iPhone/Android |
+| [Showcase View](https://github.com/amlcurran/ShowcaseView) | Highlight the best bits of your app to users quickly, simply, and cool...ly |
+| [Android PDF View](https://github.com/JoanZapata/android-pdfview) | A fast PDF reader component for Android development |
+| [Android ViewBadger](https://github.com/jgilfelt/android-viewbadger) | A simple way to "badge" any given Android view at runtime without having to cater for it in layout |
+| [Quilt View Library](https://github.com/jacobmoncur/QuiltViewLibrary) | QuiltView displays views of different sizes in a scrollable grid
 
 ### Animation
 
