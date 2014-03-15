@@ -17,6 +17,7 @@ Collection if libraries starred during some years of Android Development. Here i
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Validation](#validation)  
 [Network](#network)  
 [OpenGL](#network)  
+[Dependency Injection](#dependency_injection)  
   
 
 
@@ -87,5 +88,16 @@ Collection if libraries starred during some years of Android Development. Here i
 
 | Title | Description |
 | :----------: | :--------: |
-| [Android Page Curl](https://github.com/harism/android_page_curl) | An example application for creating page curl/flip effect on Android using OpenGL ES |
+[Android Page Curl](https://github.com/harism/android_page_curl) | An example application for creating page curl/flip effect on Android using OpenGL ES
+
+## Dependency_Injection
+
+| Title | Description |
+| :----------: | :--------: |
+[Butterknife](https://github.com/JakeWharton/butterknife) | View "injection" library for Android
+[asd]()  
+[asdasd]()  | https://github.com/swankjesse/android-dagger-example
+
+
+
 
