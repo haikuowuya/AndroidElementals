@@ -6,10 +6,11 @@ Collection if libraries starred during some years of Android Development. Here i
 ## Categories
 
 [UI](#ui)  
-&nbsp;&nbsp;&nbsp;&nbsp; [Maps]()   
-&nbsp;&nbsp;&nbsp;&nbsp; [Widgets]()  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [TextView](#textview)
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Widgets](#Widgets)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Maps](#Maps)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [TextView](#textview)  
+[Network](#network)
+[OpenGL](#network)
   
 
 
@@ -38,5 +39,15 @@ Collection if libraries starred during some years of Android Development. Here i
 | :----------: | :--------: |
 | [Clusterer](https://github.com/mrmans0n/clusterer) | Clustering in Maps v2 for Android |
 
+## Network
 
+| Title | Description |
+| :----------: | :--------: |
+| [Merlin](https://github.com/novoda/merlin) | Observes network connection status & gives callbacks |
+
+## OpenGL
+
+| Title | Description |
+| :----------: | :--------: |
+| [Android Page Curl](https://github.com/harism/android_page_curl) | An example application for creating page curl/flip effect on Android using OpenGL ES |
 
