@@ -1,15 +1,13 @@
 Android Libraries
 ================
 
-Collection if libraries starred during some years of Android Development. Here is the definitely list of android Open-Source libraries
+Collection if libraries starred during some years of Android Development. Here is the definitely list of android Open Source libraries
 
-#### Categories
+## Categories
 
-
-+ [UI](#ui)   
-&nbsp;&nbsp; + [Maps]()   
-
-&nbsp;&nbsp; + [Widgets]()  
++ [UI](#ui)  
+&nbsp;&nbsp; [Maps]()   
+&nbsp;&nbsp; [Widgets]()  
 &nbsp;&nbsp;&nbsp;&nbsp;[TextView](#textview)
 
   
@@ -18,6 +16,8 @@ Collection if libraries starred during some years of Android Development. Here i
 
 
 ## UI
+
+### Widgets
 
 #### TextView
 
@@ -32,7 +32,7 @@ Collection if libraries starred during some years of Android Development. Here i
 | [Shimmer Android](https://github.com/RomainPiel/Shimmer-android) | An Android TextView with a shimmering effect |
 | [Titanic](https://github.com/RomainPiel/Titanic) | Android experiment showing a sinking TextView |
 
-#### Maps
+### Maps
 
 | Title | Description |
 | :----------: | :--------: |
