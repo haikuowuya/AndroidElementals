@@ -8,7 +8,7 @@ Collection if libraries starred during some years of Android Development. Here i
 + [UI](#ui)  
 &nbsp;&nbsp; [Maps]()   
 &nbsp;&nbsp; [Widgets]()  
-&nbsp;&nbsp;&nbsp;&nbsp;[TextView](#textview)
+&nbsp;&nbsp; &nbsp;&nbsp; [TextView](#textview)
 
   
 
@@ -19,7 +19,7 @@ Collection if libraries starred during some years of Android Development. Here i
 
 ### Widgets
 
-#### TextView
+<center> #### TextView
 
 | Title | Description |
 | :----------: | :--------: |
