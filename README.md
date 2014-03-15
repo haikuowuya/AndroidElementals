@@ -6,11 +6,11 @@ Collection if libraries starred during some years of Android Development. Here i
 ## Categories
 
 [UI](#ui)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Widgets](#Widgets)  
+ [Widgets](#Widgets)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Maps](#Maps)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [TextView](#textview)  
-[Network](#network)
-[OpenGL](#network)
+[Network](#network)  
+[OpenGL](#network)  
   
 
 
