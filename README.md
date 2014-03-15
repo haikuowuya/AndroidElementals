@@ -16,12 +16,12 @@ Collection if libraries starred during some years of Android Development. Here i
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Animation](#animation)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Maps](#maps)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Validation](#validation)  
-[Network](#network)
-[Tasks](#tasks) 
+[Network](#network)  
+[Tasks](#tasks)  
 [OpenGL](#network)  
 [DependencyInjection](#dependencyinjection)  
 <h6>Examples</h6>
-[Tasks](#taskssamples) 
+[Tasks](#taskssamples)  
 [DependencyInjection](#dependencyinjectionsamples)  
 
 
