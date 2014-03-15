@@ -110,7 +110,7 @@ Collection if libraries starred during some years of Android Development. Here i
 <br>
 ___
 ___
-<center>__Samples__</center>
+<center>Samples</center>
 ___
 ___
 
@@ -135,7 +135,7 @@ ___
 <br>
 ___
 ___
-<center>__Tools__</center>
+<center>Tools</center>
 ___
 ___
 
