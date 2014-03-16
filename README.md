@@ -1,5 +1,5 @@
-Android Libraries
-================
+Some useful libraries and samples for Android
+=============================================
 
 Collection if libraries starred during some years of Android Development. Here is the definitely list of android Open Source libraries
 
@@ -16,6 +16,7 @@ Collection if libraries starred during some years of Android Development. Here i
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Animation](#animation)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Maps](#maps)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Validation](#validation)  
+[Social](#social)  
 [Network](#network)  
 [Tasks](#tasks)  
 [OpenGL](#opengl)  
@@ -91,6 +92,14 @@ ___
 | Title | Description |
 | :----------: | :--------: |
 [Android Saripaar](https://github.com/ragunathjawahar/android-saripaar) | UI Validation Library for Android 
+
+## Social
+
+| Title | Description |
+| :----------: | :--------: |
+[Twitter 4J](https://github.com/yusuke/twitter4j) | Twitter4J is an open-sourced, mavenized and Google App Engine safe Java library for the Twitter API 
+[Twitter Android SDK](https://github.com/sephiroth74/TwitterAndroidSDK) | Twitter SDK for Android, using Twitter4j
+[Facebook Android SDK](https://github.com/facebook/facebook-android-sdk) | Use the Facebook SDK for Android to integrate with Facebook, help build engaging social apps
 
 ## Network
 
