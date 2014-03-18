@@ -21,28 +21,29 @@ Collection if libraries starred during some years of Android Development. Here i
 &nbsp;&nbsp;&nbsp;&nbsp; [OpenGL](#opengl)  
 &nbsp;&nbsp;&nbsp;&nbsp; [Dependency Injection](#dependencyinjection)  
 &nbsp;&nbsp;&nbsp;&nbsp; [Testing](#testing)  
-
+<br>
 
 [EXAMPLES](#examples)  
 
 &nbsp;&nbsp;&nbsp;&nbsp; [Network](#networksamples)  
 &nbsp;&nbsp;&nbsp;&nbsp; [Tasks](#taskssamples)  
 &nbsp;&nbsp;&nbsp;&nbsp; [Dependency Injection](#dependencyinjectionsamples)  
-
+<br>
 
 [TOOLS](#tools)  
+
 &nbsp;&nbsp;&nbsp;&nbsp; [Testing](#testingtools)  
+<br>
 
 
 
+## Libraries
 
-#Libraries
+### UI
 
-## UI
+#### Widgets
 
-### Widgets
-
-#### TextView
+###### TextView
 
 | Title | Description |
 | :----------: | :--------: |
@@ -55,13 +56,13 @@ Collection if libraries starred during some years of Android Development. Here i
 [Shimmer Android](https://github.com/RomainPiel/Shimmer-android) | An Android TextView with a shimmering effect 
 [Titanic](https://github.com/RomainPiel/Titanic) | Android experiment showing a sinking TextView 
 
-#### ProgressBar
+###### ProgressBar
 
 | Title | Description |
 | :----------: | :--------: |
 [Holo Circular ProgressBar](https://github.com/passsy/android-HoloCircularProgressBar) | is a Custom View implementation for Android you might know from the Android Clock
 
-#### Other
+###### Other
 
 | Title | Description |
 | :----------: | :--------: |
@@ -73,7 +74,7 @@ Collection if libraries starred during some years of Android Development. Here i
 [Android ViewBadger](https://github.com/jgilfelt/android-viewbadger) | A simple way to "badge" any given Android view at runtime without having to cater for it in layout
 [Quilt View Library](https://github.com/jacobmoncur/QuiltViewLibrary) | QuiltView displays views of different sizes in a scrollable grid
 
-### Animation
+#### Animation
 
 | Title | Description |
 | :----------: | :--------: |
@@ -81,19 +82,19 @@ Collection if libraries starred during some years of Android Development. Here i
 [Android FlipView](https://github.com/emilsjolander/android-FlipView) * | A small, easy to use android library for implementing flipping between views as seen in the popular Flipboard application 
 [Android Flip](https://github.com/openaphid/android-flip) * | A component for flip animation on Android, which is similar to the effect in Flipboard iPhone/Android
 
-### Maps
+#### Maps
 
 | Title | Description |
 | :----------: | :--------: |
 [Clusterer](https://github.com/mrmans0n/clusterer) | Clustering in Maps v2 for Android
 
-### Validation
+#### Validation
 
 | Title | Description |
 | :----------: | :--------: |
 [Android Saripaar](https://github.com/ragunathjawahar/android-saripaar) | UI Validation Library for Android 
 
-## Social
+### Social
 
 | Title | Description |
 | :----------: | :--------: |
@@ -101,7 +102,7 @@ Collection if libraries starred during some years of Android Development. Here i
 [Twitter Android SDK](https://github.com/sephiroth74/TwitterAndroidSDK) | Twitter SDK for Android, using Twitter4j
 [Facebook Android SDK](https://github.com/facebook/facebook-android-sdk) | Use the Facebook SDK for Android to integrate with Facebook, help build engaging social apps
 
-## Network
+### Network
 
 | Title | Description |
 | :----------: | :--------: |
@@ -111,25 +112,25 @@ Collection if libraries starred during some years of Android Development. Here i
 [Retrofit](https://github.com/square/retrofit) | Type-safe REST client for Android and Java by Square, Inc
 [OkHttp](https://github.com/square/okhttp) | An HTTP+SPDY client for Android and Java applications
 
-## Tasks
+### Tasks
 
 | Title | Description |
 | :----------: | :--------: |
 [Robospice](https://github.com/octo-online/robospice) * | RoboSpice is a modular android library that makes writing asynchronous long running tasks easy. It is specialized in network requests, supports caching and offers REST requests out-of-the box using extension modules.
 
-## OpenGL
+### OpenGL
 
 | Title | Description |
 | :----------: | :--------: |
 [Android Page Curl](https://github.com/harism/android_page_curl) | An example application for creating page curl/flip effect on Android using OpenGL ES
 
-## DependencyInjection
+### DependencyInjection
 
 | Title | Description |
 | :----------: | :--------: |
 [Butterknife](https://github.com/JakeWharton/butterknife) | Like Selenium, but for Android
 
-## Testing
+### Testing
 
 | Title | Description |
 | :----------: | :--------: |
@@ -138,29 +139,29 @@ Collection if libraries starred during some years of Android Development. Here i
 [Fest Android](https://github.com/square/fest-android) | A set of FEST assertion helpers geared toward testing Android
 
 
-#Samples
+## Samples
 
-## NetworkSamples
+### NetworkSamples
 
 | Title |
 | :----------: |
 | [Robospice Samples](https://github.com/octo-online/RoboSpice-samples) |
 
-## TasksSamples
+### TasksSamples
 
 | Title |
 | :----------: |
 | [Robospice Samples](https://github.com/octo-online/RoboSpice-samples) * |
 
-## DependencyInjectionSamples
+### DependencyInjectionSamples
 
 | Title |
 | :----------: |
 | [Android Dagger Example](https://github.com/swankjesse/android-dagger-example) |       
 
-#Tools
+## Tools
 
-## TestingTools
+### TestingTools
 
 | Title |
 | :----------: |
