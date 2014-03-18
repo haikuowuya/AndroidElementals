@@ -7,7 +7,7 @@ Collection if libraries starred during some years of Android Development. Here i
 
 ## Categories
 
-<h6>Libraries</h6>
+<h6>[Libraries](#libraries)</h6>
 [UI](#ui)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Widgets](#widgets)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [TextView](#textview)  
@@ -33,7 +33,7 @@ Collection if libraries starred during some years of Android Development. Here i
 ___
 ___
 ___
-                                                          Libraries
+<h2>#Libraries</h2>
 ___
 ___
 ___
