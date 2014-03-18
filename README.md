@@ -5,38 +5,38 @@ Collection if libraries starred during some years of Android Development. Here i
 
 ``` * In titles means it has been categorized more than once (in different categories) ```
 
-## Categories
+[LIBRARIES](#libraries)
 
-[<h6>Libraries</h6>](#libraries)
-[UI](#ui)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Widgets](#widgets)  
+&nbsp;&nbsp;&nbsp;&nbsp; [UI](#ui)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Widgets](#widgets)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [TextView](#textview)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [ProgressBar](#textview)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Other](#other)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Animation](#animation)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Maps](#maps)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Validation](#validation)  
-[Social](#social)  
-[Network](#network)  
-[Tasks](#tasks)  
-[OpenGL](#opengl)  
-[Dependency Injection](#dependencyinjection)  
-[Testing](#testing)  
-<h6>Examples</h6>
-[Network](#networksamples)  
-[Tasks](#taskssamples)  
-[Dependency Injection](#dependencyinjectionsamples)
-<h6>Tools</h6>
-[Testing](#testingtools)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Animation](#animation)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Maps](#maps)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Validation](#validation)  
+&nbsp;&nbsp;&nbsp;&nbsp; [Social](#social)  
+&nbsp;&nbsp;&nbsp;&nbsp; [Network](#network)  
+&nbsp;&nbsp;&nbsp;&nbsp; [Tasks](#tasks)  
+&nbsp;&nbsp;&nbsp;&nbsp; [OpenGL](#opengl)  
+&nbsp;&nbsp;&nbsp;&nbsp; [Dependency Injection](#dependencyinjection)  
+&nbsp;&nbsp;&nbsp;&nbsp; [Testing](#testing)  
 
-<br>
-___
-___
-___
-#<h2>Libraries</h2>
-___
-___
-___
+
+[EXAMPLES](#examples)  
+
+&nbsp;&nbsp;&nbsp;&nbsp; [Network](#networksamples)  
+&nbsp;&nbsp;&nbsp;&nbsp; [Tasks](#taskssamples)  
+&nbsp;&nbsp;&nbsp;&nbsp; [Dependency Injection](#dependencyinjectionsamples)  
+
+
+[TOOLS](#tools)  
+&nbsp;&nbsp;&nbsp;&nbsp; [Testing](#testingtools)  
+
+
+
+
+#Libraries
 
 ## UI
 
@@ -138,14 +138,7 @@ ___
 [Fest Android](https://github.com/square/fest-android) | A set of FEST assertion helpers geared toward testing Android
 
 
-<br>
-___
-___
-___
-                                                           Samples
-___
-___
-___
+#Samples
 
 ## NetworkSamples
 
@@ -165,14 +158,7 @@ ___
 | :----------: |
 | [Android Dagger Example](https://github.com/swankjesse/android-dagger-example) |       
 
-<br>
-___
-___
-___
-                                                            Tools
-___
-___
-___
+#Tools
 
 ## TestingTools
 
