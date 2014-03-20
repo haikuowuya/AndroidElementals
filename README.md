@@ -8,10 +8,10 @@ Collection if libraries starred during some years of Android Development. Here i
 [LIBRARIES](#libraries)
 ***
 &nbsp;&nbsp;&nbsp;&nbsp;[UI](#ui)  
-&nbsp;&nbsp;&nbsp;&nbsp; |------ [Widgets](#widgets)  
-&nbsp;&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |------ [TextView](#textview)  
-&nbsp;&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |------ [ProgressBar](#textview)  
-&nbsp;&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |------ [Other](#other) 
+&nbsp;&nbsp;&nbsp;&nbsp; |--- [Widgets](#widgets)  
+&nbsp;&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |--- [TextView](#textview)  
+&nbsp;&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |--- [ProgressBar](#textview)  
+&nbsp;&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |--- [Other](#other) 
 
 
 
