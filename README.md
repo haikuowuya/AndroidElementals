@@ -9,9 +9,9 @@ Collection if libraries starred during some years of Android Development. Here i
 ***
 &nbsp;&nbsp;&nbsp;&nbsp;[UI](#ui)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---[Widgets](#widgets)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[TextView](#textview)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[ProgressBar](#textview)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[Other](#other)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[TextView](#textview)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[ProgressBar](#textview)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[Other](#other)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---[Animation](#animation)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---[Maps](#maps)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---[Validation](#validation)  
@@ -25,14 +25,14 @@ Collection if libraries starred during some years of Android Development. Here i
 
 [EXAMPLES](#examples)  
 ***
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Network](#networksamples)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Tasks](#taskssamples)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Dependency Injection](#dependencyinjectionsamples)  
+&nbsp;&nbsp;&nbsp;&nbsp;[Network](#networksamples)  
+&nbsp;&nbsp;&nbsp;&nbsp;[Tasks](#taskssamples)  
+&nbsp;&nbsp;&nbsp;&nbsp;[Dependency Injection](#dependencyinjectionsamples)  
 <br>
 
 [TOOLS](#tools)  
 ***
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Testing](#testingtools)  
+&nbsp;&nbsp;&nbsp;&nbsp;[Testing](#testingtools)  
 <br>
 
 
