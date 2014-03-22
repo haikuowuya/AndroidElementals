@@ -124,7 +124,9 @@ Collection if libraries starred during some years of Android Development. Here i
 
 | Title | Description |
 | :----------: | :--------: |
-[Robospice](https://github.com/octo-online/robospice) * | RoboSpice is a modular android library that makes writing asynchronous long running tasks easy. It is specialized in network requests, supports caching and offers REST requests out-of-the box using extension modules.
+[Robospice](https://github.com/octo-online/robospice) * | RoboSpice is a modular android library that makes writing asynchronous long running tasks easy. It is specialized in network requests, supports caching and offers REST requests out-of-the box using extension modules
+[Bolts Android](https://github.com/BoltsFramework/Bolts-Android) | Bolts is a collection of low-level libraries designed to make developing mobile apps easier
+
 
 ### <a name="opengl">Open GL
 
