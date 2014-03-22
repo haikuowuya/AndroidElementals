@@ -15,6 +15,7 @@ Collection if libraries starred during some years of Android Development. Here i
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---[Animation](#animation)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---[Maps](#maps)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---[Validation](#validation)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---[Other](#other)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Social](#social)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Network](#network)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Tasks](#tasks)  
@@ -92,6 +93,12 @@ Collection if libraries starred during some years of Android Development. Here i
 | Title | Description |
 | :----------: | :--------: |
 [Android Saripaar](https://github.com/ragunathjawahar/android-saripaar) | UI Validation Library for Android 
+
+#### Other
+
+| Title | Description |
+| :----------: | :--------: |
+[Shake Detector](https://github.com/tbouron/ShakeDetector) | This library provides a easy way to detect a shake movement using the build-in accelerometer and fire a callback on the UI thread every times it happens 
 
 ### Social
 
