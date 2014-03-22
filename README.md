@@ -15,7 +15,7 @@ Collection if libraries starred during some years of Android Development. Here i
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---[Animation](#animation)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---[Maps](#maps)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---[Validation](#validation)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---[Other](#other)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---[Other](#other1)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Social](#social)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Network](#network)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Tasks](#tasks)  
@@ -94,7 +94,7 @@ Collection if libraries starred during some years of Android Development. Here i
 | :----------: | :--------: |
 [Android Saripaar](https://github.com/ragunathjawahar/android-saripaar) | UI Validation Library for Android 
 
-#### Other
+#### <a name="other1"/>Other
 
 | Title | Description |
 | :----------: | :--------: |
