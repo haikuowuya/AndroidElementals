@@ -11,7 +11,7 @@ Collection if libraries starred during some years of Android Development. Here i
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---[Widgets](#widgets)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[TextView](#textview)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[ProgressBar](#progressbar)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[Other](#other)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[Other](#otherwidgets)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---[Animation](#animation)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---[Maps](#maps)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---[Validation](#validation)  
@@ -64,7 +64,7 @@ Collection if libraries starred during some years of Android Development. Here i
 | :----------: | :--------: |
 [Holo Circular ProgressBar](https://github.com/passsy/android-HoloCircularProgressBar) | is a Custom View implementation for Android you might know from the Android Clock
 
-###### <a name="other">Other
+###### <a name="otherwidgets">Other
 
 | Title | Description |
 | :----------: | :--------: |
@@ -96,7 +96,7 @@ Collection if libraries starred during some years of Android Development. Here i
 | :----------: | :--------: |
 [Android Saripaar](https://github.com/ragunathjawahar/android-saripaar) | UI Validation Library for Android 
 
-#### <a name="otherui""/>Other
+#### <a name="otherui"/>Other
 
 | Title | Description |
 | :----------: | :--------: |
@@ -138,7 +138,7 @@ Collection if libraries starred during some years of Android Development. Here i
 | :----------: | :--------: |
 [Butterknife](https://github.com/JakeWharton/butterknife) | Like Selenium, but for Android
 
-### Testing
+### <a name="testing">Testing
 
 | Title | Description |
 | :----------: | :--------: |
@@ -147,7 +147,7 @@ Collection if libraries starred during some years of Android Development. Here i
 [Fest Android](https://github.com/square/fest-android) | A set of FEST assertion helpers geared toward testing Android
 
 
-## Samples
+## <a name="samples">Samples
 
 ### <a name="networksamples">Network
 
@@ -167,7 +167,7 @@ Collection if libraries starred during some years of Android Development. Here i
 | :----------: |
 | [Android Dagger Example](https://github.com/swankjesse/android-dagger-example) |       
 
-## Tools
+## <a name="tools">Tools
 
 ### <a name="testingtools">Testing
 
