@@ -96,7 +96,7 @@ Collection if libraries starred during some years of Android Development. Here i
 | :----------: | :--------: |
 [Android Saripaar](https://github.com/ragunathjawahar/android-saripaar) | UI Validation Library for Android 
 
-#### <a name="otherui"/>Other
+#### <a name="otherui">Other
 
 | Title | Description |
 | :----------: | :--------: |
