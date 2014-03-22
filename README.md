@@ -39,13 +39,13 @@ Collection if libraries starred during some years of Android Development. Here i
 
 
 
-## <a name="libraries>Libraries
+## <a name="libraries">Libraries
 
-### <a name="ui>UI
+### <a name="ui">UI
 
-#### <a name="widgets>Widgets
+#### <a name="widgets">Widgets
 
-###### <a name="textview>TextView
+###### <a name="textview">TextView
 
 | Title | Description |
 | :----------: | :--------: |
@@ -58,13 +58,13 @@ Collection if libraries starred during some years of Android Development. Here i
 [Shimmer Android](https://github.com/RomainPiel/Shimmer-android) | An Android TextView with a shimmering effect 
 [Titanic](https://github.com/RomainPiel/Titanic) | Android experiment showing a sinking TextView 
 
-###### <a name="progressbar>ProgressBar
+###### <a name="progressbar">ProgressBar
 
 | Title | Description |
 | :----------: | :--------: |
 [Holo Circular ProgressBar](https://github.com/passsy/android-HoloCircularProgressBar) | is a Custom View implementation for Android you might know from the Android Clock
 
-###### <a name="other>Other
+###### <a name="other">Other
 
 | Title | Description |
 | :----------: | :--------: |
@@ -76,7 +76,7 @@ Collection if libraries starred during some years of Android Development. Here i
 [Android ViewBadger](https://github.com/jgilfelt/android-viewbadger) | A simple way to "badge" any given Android view at runtime without having to cater for it in layout
 [Quilt View Library](https://github.com/jacobmoncur/QuiltViewLibrary) | QuiltView displays views of different sizes in a scrollable grid
 
-#### <a name="animation>Animation
+#### <a name="animation">Animation
 
 | Title | Description |
 | :----------: | :--------: |
@@ -84,25 +84,25 @@ Collection if libraries starred during some years of Android Development. Here i
 [Android FlipView](https://github.com/emilsjolander/android-FlipView) * | A small, easy to use android library for implementing flipping between views as seen in the popular Flipboard application 
 [Android Flip](https://github.com/openaphid/android-flip) * | A component for flip animation on Android, which is similar to the effect in Flipboard iPhone/Android
 
-#### <a name="maps>Maps
+#### <a name="maps">Maps
 
 | Title | Description |
 | :----------: | :--------: |
 [Clusterer](https://github.com/mrmans0n/clusterer) | Clustering in Maps v2 for Android
 
-#### <a name="validation>Validation
+#### <a name="validation">Validation
 
 | Title | Description |
 | :----------: | :--------: |
 [Android Saripaar](https://github.com/ragunathjawahar/android-saripaar) | UI Validation Library for Android 
 
-#### <a name="otherui"/>Other
+#### <a name="otherui""/>Other
 
 | Title | Description |
 | :----------: | :--------: |
 [Shake Detector](https://github.com/tbouron/ShakeDetector) | This library provides a easy way to detect a shake movement using the build-in accelerometer and fire a callback on the UI thread every times it happens 
 
-### <a name="social>Social
+### <a name="social">Social
 
 | Title | Description |
 | :----------: | :--------: |
@@ -110,7 +110,7 @@ Collection if libraries starred during some years of Android Development. Here i
 [Twitter Android SDK](https://github.com/sephiroth74/TwitterAndroidSDK) | Twitter SDK for Android, using Twitter4j
 [Facebook Android SDK](https://github.com/facebook/facebook-android-sdk) | Use the Facebook SDK for Android to integrate with Facebook, help build engaging social apps
 
-### <a name="network>Network
+### <a name="network">Network
 
 | Title | Description |
 | :----------: | :--------: |
@@ -120,13 +120,13 @@ Collection if libraries starred during some years of Android Development. Here i
 [Retrofit](https://github.com/square/retrofit) | Type-safe REST client for Android and Java by Square, Inc
 [OkHttp](https://github.com/square/okhttp) | An HTTP+SPDY client for Android and Java applications
 
-### <a name="tasks>Tasks
+### <a name="tasks">Tasks
 
 | Title | Description |
 | :----------: | :--------: |
 [Robospice](https://github.com/octo-online/robospice) * | RoboSpice is a modular android library that makes writing asynchronous long running tasks easy. It is specialized in network requests, supports caching and offers REST requests out-of-the box using extension modules.
 
-### <a name="opengl>Open GL
+### <a name="opengl">Open GL
 
 | Title | Description |
 | :----------: | :--------: |
