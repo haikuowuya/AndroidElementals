@@ -130,7 +130,7 @@ Collection if libraries starred during some years of Android Development. Here i
 | :----------: | :--------: |
 [Android Page Curl](https://github.com/harism/android_page_curl) | An example application for creating page curl/flip effect on Android using OpenGL ES
 
-### DependencyInjection
+### <a name="dependencyinjection">Dependency Injection
 
 | Title | Description |
 | :----------: | :--------: |
@@ -147,19 +147,19 @@ Collection if libraries starred during some years of Android Development. Here i
 
 ## Samples
 
-### NetworkSamples
+### <a name="networksamples">Network
 
 | Title |
 | :----------: |
 | [Robospice Samples](https://github.com/octo-online/RoboSpice-samples) |
 
-### TasksSamples
+### <a name="taskssamples">Tasks
 
 | Title |
 | :----------: |
 | [Robospice Samples](https://github.com/octo-online/RoboSpice-samples) * |
 
-### DependencyInjectionSamples
+### <a name="dependencyinjectionsamples">Dependency Injection
 
 | Title |
 | :----------: |
@@ -167,7 +167,7 @@ Collection if libraries starred during some years of Android Development. Here i
 
 ## Tools
 
-### TestingTools
+### <a name="testingtools">Testing
 
 | Title |
 | :----------: |
