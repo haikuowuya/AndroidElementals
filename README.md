@@ -82,6 +82,7 @@ Collection if libraries starred during some years of Android Development. Here i
 [Android PDF View](https://github.com/JoanZapata/android-pdfview) | A fast PDF reader component for Android development
 [Android ViewBadger](https://github.com/jgilfelt/android-viewbadger) | A simple way to "badge" any given Android view at runtime without having to cater for it in layout
 [Quilt View Library](https://github.com/jacobmoncur/QuiltViewLibrary) | QuiltView displays views of different sizes in a scrollable grid
+[FreeFlow](https://github.com/Comcast/FreeFlow) | A layout engine for Android that decouples layouts from the View containers that manage scrolling and view recycling. FreeFlow makes it really easy to create custom layouts and beautiful transition animations as data and layouts change
 
 #### <a name="animation">Animation
 
@@ -91,6 +92,7 @@ Collection if libraries starred during some years of Android Development. Here i
 [Android FlipView](https://github.com/emilsjolander/android-FlipView) * | A small, easy to use android library for implementing flipping between views as seen in the popular Flipboard application 
 [Android Flip](https://github.com/openaphid/android-flip) * | A component for flip animation on Android, which is similar to the effect in Flipboard iPhone/Android
 [Flabby ListView](https://github.com/jpardogo/FlabbyListView) * | Android library to display a ListView which cells are not rigid but flabby and react to ListView scroll and touch events
+[FreeFlow](https://github.com/Comcast/FreeFlow) * | A layout engine for Android that decouples layouts from the View containers that manage scrolling and view recycling. FreeFlow makes it really easy to create custom layouts and beautiful transition animations as data and layouts change
 
 #### <a name="maps">Maps
 
@@ -108,7 +110,8 @@ Collection if libraries starred during some years of Android Development. Here i
 
 | Title | Description |
 | :----------: | :--------: |
-[Shake Detector](https://github.com/tbouron/ShakeDetector) | This library provides a easy way to detect a shake movement using the build-in accelerometer and fire a callback on the UI thread every times it happens 
+[Shake Detector](https://github.com/tbouron/ShakeDetector) | This library provides a easy way to detect a shake movement using the build-in accelerometer and fire a callback on the UI thread every times it happens
+[FreeFlow](https://github.com/Comcast/FreeFlow) | A layout engine for Android that decouples layouts from the View containers that manage scrolling and view recycling. FreeFlow makes it really easy to create custom layouts and beautiful transition animations as data and layouts change
 
 ### <a name="social">Social
 
