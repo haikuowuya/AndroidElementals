@@ -10,7 +10,8 @@ Collection if libraries starred during some years of Android Development. Here i
 &nbsp;&nbsp;&nbsp;&nbsp;[UI](#ui)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---[Widgets](#widgets)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[TextView](#textview)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[ProgressBar](#progressbar)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[ProgressBar](#progressbar) 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[ListView](#listview)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[Other](#otherwidgets)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---[Animation](#animation)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---[Maps](#maps)  
@@ -64,6 +65,12 @@ Collection if libraries starred during some years of Android Development. Here i
 | :----------: | :--------: |
 [Holo Circular ProgressBar](https://github.com/passsy/android-HoloCircularProgressBar) | is a Custom View implementation for Android you might know from the Android Clock
 
+###### <a name="listview">ListView
+
+| Title | Description |
+| :----------: | :--------: |
+[Flabby ListView](https://github.com/jpardogo/FlabbyListView) | Android library to display a ListView which cells are not rigid but flabby and react to ListView scroll and touch events
+
 ###### <a name="otherwidgets">Other
 
 | Title | Description |
@@ -83,6 +90,7 @@ Collection if libraries starred during some years of Android Development. Here i
 [Android Sliding Up Panel](https://github.com/umano/AndroidSlidingUpPanel) * | Android Sliding Up Panel Demo
 [Android FlipView](https://github.com/emilsjolander/android-FlipView) * | A small, easy to use android library for implementing flipping between views as seen in the popular Flipboard application 
 [Android Flip](https://github.com/openaphid/android-flip) * | A component for flip animation on Android, which is similar to the effect in Flipboard iPhone/Android
+[Flabby ListView](https://github.com/jpardogo/FlabbyListView) * | Android library to display a ListView which cells are not rigid but flabby and react to ListView scroll and touch events
 
 #### <a name="maps">Maps
 
