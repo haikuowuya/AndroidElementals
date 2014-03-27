@@ -174,6 +174,8 @@ Collection if libraries starred during some years of Android Development. Here i
 | :----------: | :--------: |
 [JadX](https://github.com/skylot/jadx) | Dex to Java decompiler
 
+<br><br>
+
 ## <a name="samples">Samples
 
 ### <a name="networksamples">Network
@@ -193,6 +195,8 @@ Collection if libraries starred during some years of Android Development. Here i
 | Title |
 | :----------: |
 | [Android Dagger Example](https://github.com/swankjesse/android-dagger-example) |       
+
+<br><br>
 
 ## <a name="tools">Tools
 
