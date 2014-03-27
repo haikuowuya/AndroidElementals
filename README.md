@@ -39,7 +39,7 @@ Collection if libraries starred during some years of Android Development. Here i
 &nbsp;&nbsp;&nbsp;&nbsp;[Testing](#testingtools)  
 <br>
 
-[Open Source Apps](#opensourceapps)  
+[OPEN SOURCE APPS](#opensourceapps)  
 ***
 &nbsp;&nbsp;&nbsp;&nbsp;[Chat](#chat)  
 <br>
@@ -216,9 +216,9 @@ Collection if libraries starred during some years of Android Development. Here i
 
 ### <a name="chat">Chat
 
-| Title |
-| :----------: |
-| [Conversations](https://github.com/siacs/Conversations) |                                                                  
+| Title | Description |
+| :----------: | :--------: |
+| [Conversations](https://github.com/siacs/Conversations) |                                                                                                                             
 
 <br><br>
 
