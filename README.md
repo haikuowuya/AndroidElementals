@@ -10,6 +10,7 @@ Collection if libraries starred during some years of Android Development. Here i
 &nbsp;&nbsp;&nbsp;&nbsp;[UI](#ui)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---[Widgets](#widgets)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[TextView](#textview)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[ImageView](#imageview)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[ProgressBar](#progressbar)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[ListView](#listview)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[ActionBar](#actionbar)  
@@ -65,6 +66,12 @@ Collection if libraries starred during some years of Android Development. Here i
 [Shimmer Android](https://github.com/RomainPiel/Shimmer-android) | An Android TextView with a shimmering effect 
 [Titanic](https://github.com/RomainPiel/Titanic) | Android experiment showing a sinking TextView 
 
+###### <a name="imageview">ImageView
+
+| Title | Description |
+| :----------: | :--------: |
+[Ken Burns View](https://github.com/flavioarfaria/KenBurnsView) | Android ImageViews animated by Ken Burns Effect
+
 ###### <a name="progressbar">ProgressBar
 
 | Title | Description |
@@ -107,6 +114,7 @@ Collection if libraries starred during some years of Android Development. Here i
 [Android Flip](https://github.com/openaphid/android-flip) * | A component for flip animation on Android, which is similar to the effect in Flipboard iPhone/Android
 [Flabby ListView](https://github.com/jpardogo/FlabbyListView) * | Android library to display a ListView which cells are not rigid but flabby and react to ListView scroll and touch events
 [FreeFlow](https://github.com/Comcast/FreeFlow) * | A layout engine for Android that decouples layouts from the View containers that manage scrolling and view recycling. FreeFlow makes it really easy to create custom layouts and beautiful transition animations as data and layouts change
+[Ken Burns View](https://github.com/flavioarfaria/KenBurnsView) * | Android ImageViews animated by Ken Burns Effect
 
 #### <a name="maps">Maps
 
