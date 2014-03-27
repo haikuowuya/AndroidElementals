@@ -12,6 +12,7 @@ Collection if libraries starred during some years of Android Development. Here i
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[TextView](#textview)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[ProgressBar](#progressbar)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[ListView](#listview)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[ActionBar](#actionbar)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[Other](#otherwidgets)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---[Animation](#animation)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---[Maps](#maps)  
@@ -23,6 +24,7 @@ Collection if libraries starred during some years of Android Development. Here i
 &nbsp;&nbsp;&nbsp;&nbsp;[Open GL](#opengl)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Dependency Injection](#dependencyinjection)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Testing](#testing)  
+&nbsp;&nbsp;&nbsp;&nbsp;[Reverse Engineering](#reverseengineering)  
 <br>
 
 [EXAMPLES](#examples)  
@@ -64,12 +66,19 @@ Collection if libraries starred during some years of Android Development. Here i
 | Title | Description |
 | :----------: | :--------: |
 [Holo Circular ProgressBar](https://github.com/passsy/android-HoloCircularProgressBar) | is a Custom View implementation for Android you might know from the Android Clock
+[Google ProgressBar](https://github.com/jpardogo/GoogleProgressBar) | Android library to display progress like google does in some of his services
 
 ###### <a name="listview">ListView
 
 | Title | Description |
 | :----------: | :--------: |
 [Flabby ListView](https://github.com/jpardogo/FlabbyListView) | Android library to display a ListView which cells are not rigid but flabby and react to ListView scroll and touch events
+
+###### <a name="actionbar">ActionBar
+
+| Title | Description |
+| :----------: | :--------: |
+[Not Boring ActionBar](https://github.com/flavienlaurent/NotBoringActionBar) | News Stand app makes the ActionBar not boring!
 
 ###### <a name="otherwidgets">Other
 
@@ -159,6 +168,11 @@ Collection if libraries starred during some years of Android Development. Here i
 [Spoon](https://github.com/square/spoon) | Distributing instrumentation tests to all your Androids
 [Fest Android](https://github.com/square/fest-android) | A set of FEST assertion helpers geared toward testing Android
 
+### <a name="reverseengineering">Reverse Engineering
+
+| Title | Description |
+| :----------: | :--------: |
+[JadX](https://github.com/skylot/jadx) | Dex to Java decompiler
 
 ## <a name="samples">Samples
 
