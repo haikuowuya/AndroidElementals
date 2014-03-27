@@ -39,8 +39,12 @@ Collection if libraries starred during some years of Android Development. Here i
 &nbsp;&nbsp;&nbsp;&nbsp;[Testing](#testingtools)  
 <br>
 
+[Open Source Apps](#opensourceapps)  
+***
+&nbsp;&nbsp;&nbsp;&nbsp;[Chat](#chat)  
+<br>
 
-
+<br><br>
 
 ## <a name="libraries">Libraries
 
@@ -205,6 +209,18 @@ Collection if libraries starred during some years of Android Development. Here i
 | Title |
 | :----------: |
 | [Quality Tools for Android](https://github.com/stephanenicolas/Quality-Tools-for-Android) |  This is an Android sample app + tests that will be used to work on various project to increase the quality of the Android platform
+
+<br><br>
+
+## <a name="opensourceapps">Open Source Apps
+
+### <a name="chat">Chat
+
+| Title |
+| :----------: |
+| [Conversations](https://github.com/siacs/Conversations) |                                                                  
+
+<br><br>
 
 
 
