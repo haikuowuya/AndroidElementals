@@ -5,19 +5,20 @@ Collection if libraries starred during some years of Android Development. Here i
 
 ``` * In titles means it has been categorized more than once (in different categories) ```
 
-[LIBRARIES](#libraries)
+[LIBRARIES](#libraries)  
 ***
 &nbsp;&nbsp;&nbsp;&nbsp;[UI](#ui)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---[Widgets](#widgets)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---[Widgets](#widgetsui)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[TextView](#textview)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[ImageView](#imageview)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[ProgressBar](#progressbar)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[ListView](#listview)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[ActionBar](#actionbar)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[Other](#otherwidgets)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---[Animation](#animation)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---[Maps](#maps)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---[Validation](#validation)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---[Animation](#animationui)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---[Maps](#mapsui)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---[Validation](#validationui)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---[Camera](#cameraui)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---[Other](#otherui)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Social](#social)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Network](#network)  
@@ -51,7 +52,7 @@ Collection if libraries starred during some years of Android Development. Here i
 
 ### <a name="ui">UI
 
-#### <a name="widgets">Widgets
+#### <a name="widgetsui">Widgets
 
 ###### <a name="textview">TextView
 
@@ -105,7 +106,7 @@ Collection if libraries starred during some years of Android Development. Here i
 [Quilt View Library](https://github.com/jacobmoncur/QuiltViewLibrary) | QuiltView displays views of different sizes in a scrollable grid
 [FreeFlow](https://github.com/Comcast/FreeFlow) | A layout engine for Android that decouples layouts from the View containers that manage scrolling and view recycling. FreeFlow makes it really easy to create custom layouts and beautiful transition animations as data and layouts change
 
-#### <a name="animation">Animation
+#### <a name="animationui">Animation
 
 | Title | Description |
 | :----------: | :--------: |
@@ -116,17 +117,23 @@ Collection if libraries starred during some years of Android Development. Here i
 [FreeFlow](https://github.com/Comcast/FreeFlow) * | A layout engine for Android that decouples layouts from the View containers that manage scrolling and view recycling. FreeFlow makes it really easy to create custom layouts and beautiful transition animations as data and layouts change
 [Ken Burns View](https://github.com/flavioarfaria/KenBurnsView) * | Android ImageViews animated by Ken Burns Effect
 
-#### <a name="maps">Maps
+#### <a name="mapsui">Maps
 
 | Title | Description |
 | :----------: | :--------: |
 [Clusterer](https://github.com/mrmans0n/clusterer) | Clustering in Maps v2 for Android
 
-#### <a name="validation">Validation
+#### <a name="validationui">Validation
 
 | Title | Description |
 | :----------: | :--------: |
 [Android Saripaar](https://github.com/ragunathjawahar/android-saripaar) | UI Validation Library for Android 
+
+#### <a name="cameraui">Camera
+
+| Title | Description |
+| :----------: | :--------: |
+[Easy Camera](https://github.com/Glamdring/EasyCamera) | Wrapper around the android Camera class that simplifies its usage
 
 #### <a name="otherui">Other
 
