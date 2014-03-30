@@ -133,7 +133,7 @@ Collection if libraries starred during some years of Android Development. Here i
 | Title | Description |
 | :----------: | :--------: |
 [Shake Detector](https://github.com/tbouron/ShakeDetector) | This library provides a easy way to detect a shake movement using the build-in accelerometer and fire a callback on the UI thread every times it happens
-[FreeFlow](https://github.com/Comcast/FreeFlow) | A layout engine for Android that decouples layouts from the View containers that manage scrolling and view recycling. FreeFlow makes it really easy to create custom layouts and beautiful transition animations as data and layouts change
+[Android Face Cropper](https://github.com/lafosca/AndroidFaceCropper) | Android bitmap Face Cropper
 
 ### <a name="social">Social
 
