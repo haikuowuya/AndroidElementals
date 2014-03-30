@@ -94,7 +94,7 @@ Collection if libraries starred during some years of Android Development. Here i
 | :----------: | :--------: |
 [Not Boring ActionBar](https://github.com/flavienlaurent/NotBoringActionBar) | News Stand app makes the ActionBar not boring!
 
-###### <a name="slidingiew">Sliding Views
+###### <a name="slidingviews">Sliding Views
 
 | Title | Description |
 | :----------: | :--------: |
