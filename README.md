@@ -13,6 +13,7 @@ Collection if libraries starred during some years of Android Development. Here i
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[ImageView](#imageview)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[ProgressBar](#progressbar)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[ListView](#listview)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[ScrollView](#scrollview)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[ActionBar](#actionbar)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[Sliding Views](#slidingviews)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[Other](#otherwidgets)  
@@ -87,6 +88,12 @@ Collection if libraries starred during some years of Android Development. Here i
 | Title | Description |
 | :----------: | :--------: |
 [Flabby ListView](https://github.com/jpardogo/FlabbyListView) | Android library to display a ListView which cells are not rigid but flabby and react to ListView scroll and touch events
+
+###### <a name="scrollview">ScrollView
+
+| Title | Description |
+| :----------: | :--------: |
+[Discroll View](https://github.com/flavienlaurent/discrollview) | Scroll + discover = DiscrollView
 
 ###### <a name="actionbar">ActionBar
 
