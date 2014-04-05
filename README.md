@@ -19,6 +19,8 @@ Collection if libraries starred during some years of Android Development. Here i
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[Sliding Views](#slidingviews)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[Other](#otherwidgets)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---[Animation](#animationui)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[Parallax](#parallaxui)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[Other](#otheranimation) 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---[Maps](#mapsui)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---[Validation](#validationui)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---[Camera](#cameraui)  
@@ -130,6 +132,14 @@ Collection if libraries starred during some years of Android Development. Here i
 [FreeFlow](https://github.com/Comcast/FreeFlow) | A layout engine for Android that decouples layouts from the View containers that manage scrolling and view recycling. FreeFlow makes it really easy to create custom layouts and beautiful transition animations as data and layouts change
 
 #### <a name="animationui">Animation
+
+###### <a name="parallaxui">Parallax
+
+| Title | Description |
+| :----------: | :--------: |
+[Motion](https://github.com/nvanbenschoten/motion) | An Android library allowing images to exhibit a parallax effect
+
+###### <a name="otheranimation">Other
 
 | Title | Description |
 | :----------: | :--------: |
