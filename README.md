@@ -117,12 +117,12 @@ Collection if libraries starred during some years of Android Development. Here i
 | Title | Description |
 | :----------: | :--------: |
 [DobSliding](https://github.com/Startappz/DobSliding) | DobSliding is an Open Source Android library that allows developers to develop applications with vertical sliding menus just like the Android notifications menu
+[Android Sliding Up Panel](https://github.com/umano/AndroidSlidingUpPanel) | This type of a panel is a common pattern also used in the Google Music app and the Rdio app
 
 ###### <a name="otherwidgets">Other
 
 | Title | Description |
 | :----------: | :--------: |
-[Android Sliding Up Panel](https://github.com/umano/AndroidSlidingUpPanel) | This type of a panel is a common pattern also used in the Google Music app and the Rdio app
 [Android FlipView](https://github.com/emilsjolander/android-FlipView) | A small, easy to use android library for implementing flipping between views as seen in the popular Flipboard application
 [Android Flip](https://github.com/openaphid/android-flip) | A component for flip animation on Android, which is similar to the effect in Flipboard iPhone/Android
 [Showcase View](https://github.com/amlcurran/ShowcaseView) | Highlight the best bits of your app to users quickly, simply, and cool...ly
