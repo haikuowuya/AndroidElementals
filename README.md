@@ -33,6 +33,7 @@ Collection if libraries starred during some years of Android Development. Here i
 &nbsp;&nbsp;&nbsp;&nbsp;[Dependency Injection](#dependencyinjection)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Testing](#testing)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Reverse Engineering](#reverseengineering)  
+&nbsp;&nbsp;&nbsp;&nbsp;[Bluetooth](#bluetooth)  
 <br>
 
 [EXAMPLES](#examples)  
@@ -100,6 +101,7 @@ Collection if libraries starred during some years of Android Development. Here i
 | Title | Description |
 | :----------: | :--------: |
 [Flabby ListView](https://github.com/jpardogo/FlabbyListView) | Android library to display a ListView which cells are not rigid but flabby and react to ListView scroll and touch events
+[Dob List](https://github.com/bilalsammour/DobList) | DobLis is an Open Source Android library that provides to ListView adding ProgressBar (or any view) to the footer of ListView to be shown in loading more, and callback that is called when reaching last item in ListView
 
 ###### <a name="gridview">GridView
 
@@ -233,6 +235,12 @@ Collection if libraries starred during some years of Android Development. Here i
 | Title | Description |
 | :----------: | :--------: |
 [JadX](https://github.com/skylot/jadx) | Dex to Java decompiler
+
+### <a name="bluetooth">Bluetooth
+
+| Title | Description |
+| :----------: | :--------: |
+[Android Bluetooth SPP](https://github.com/akexorcist/Android-BluetoothSPPLibrary) | Bluetooth Serial Port Profile which comfortable to developer application to communication with microcontroller via bluetooth
 
 <br><br>
 
