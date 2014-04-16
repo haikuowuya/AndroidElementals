@@ -20,6 +20,7 @@ Collection if libraries starred during some years of Android Development. Here i
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[ActionBar](#actionbar)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[Sliding Views](#slidingviews)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[Other](#otherwidgets)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---[Toasts](#toastsui)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---[Animation](#animationui)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[Parallax](#parallaxui)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[Other](#otheranimation)  
@@ -103,6 +104,7 @@ Collection if libraries starred during some years of Android Development. Here i
 | :----------: | :--------: |
 [Flabby ListView](https://github.com/jpardogo/FlabbyListView) | Android library to display a ListView which cells are not rigid but flabby and react to ListView scroll and touch events
 [Dob List](https://github.com/bilalsammour/DobList) | DobLis is an Open Source Android library that provides to ListView adding ProgressBar (or any view) to the footer of ListView to be shown in loading more, and callback that is called when reaching last item in ListView
+[Swipe ListView](https://github.com/47deg/android-swipelistview) | An Android List View implementation with support for drawable cells and many other swipe related features
 
 ###### <a name="seekbar">SeekBar
 
@@ -147,6 +149,12 @@ Collection if libraries starred during some years of Android Development. Here i
 [Quilt View Library](https://github.com/jacobmoncur/QuiltViewLibrary) | QuiltView displays views of different sizes in a scrollable grid
 [FreeFlow](https://github.com/Comcast/FreeFlow) | A layout engine for Android that decouples layouts from the View containers that manage scrolling and view recycling. FreeFlow makes it really easy to create custom layouts and beautiful transition animations as data and layouts change
 [Draggable Panel](https://github.com/pedrovgs/DraggablePanel) | Android library used to create an awesome Android UI based on a draggable element similar to the last YouTube graphic component
+
+#### <a name="toastsui">Toasts
+
+| Title | Description |
+| :----------: | :--------: |
+[Super Toasts](https://github.com/JohnPersano/SuperToasts) | A library that extends the Android toast framework
 
 #### <a name="animationui">Animation
 
@@ -211,6 +219,7 @@ Collection if libraries starred during some years of Android Development. Here i
 [Android Volley](https://github.com/mcxiaoke/android-volley) | Android Volley Mirror
 [Retrofit](https://github.com/square/retrofit) | Type-safe REST client for Android and Java by Square, Inc
 [OkHttp](https://github.com/square/okhttp) | An HTTP+SPDY client for Android and Java applications
+[KSOAP 2](https://code.google.com/p/ksoap2-android/) | Lightweight and efficient SOAP client library for the Android platform
 
 ### <a name="tasks">Tasks
 
