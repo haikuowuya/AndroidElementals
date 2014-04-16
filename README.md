@@ -306,6 +306,12 @@ Collection if libraries starred during some years of Android Development. Here i
 
 ## <a name="opensourceapps">Open Source Apps
 
+### <a name="cameraapps">Camera
+
+| Title | Description |
+| :----------: | :--------: |
+[PhotoUp](https://github.com/chrisbanes/photup) | 
+
 ### <a name="peertopeerapps">P2P
 
 | Title | Description |
