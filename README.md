@@ -20,6 +20,7 @@ Collection if libraries starred during some years of Android Development. Here i
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[ActionBar](#actionbar)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[Sliding Views](#slidingviews)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[Other](#otherwidgets)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---[Dialogs](#dialogsui)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---[Toasts](#toastsui)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---[Animation](#animationui)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[Parallax](#parallaxui)  
@@ -52,7 +53,9 @@ Collection if libraries starred during some years of Android Development. Here i
 
 [OPEN SOURCE APPS](#opensourceapps)  
 ***
-&nbsp;&nbsp;&nbsp;&nbsp;[Chat](#chat)  
+&nbsp;&nbsp;&nbsp;&nbsp;[P2P](#peertopeerapps)  
+&nbsp;&nbsp;&nbsp;&nbsp;[Chat](#chatapps)  
+&nbsp;&nbsp;&nbsp;&nbsp;[Other](#otherapps)  
 <br>
 
 <br><br>
@@ -149,6 +152,12 @@ Collection if libraries starred during some years of Android Development. Here i
 [Quilt View Library](https://github.com/jacobmoncur/QuiltViewLibrary) | QuiltView displays views of different sizes in a scrollable grid
 [FreeFlow](https://github.com/Comcast/FreeFlow) | A layout engine for Android that decouples layouts from the View containers that manage scrolling and view recycling. FreeFlow makes it really easy to create custom layouts and beautiful transition animations as data and layouts change
 [Draggable Panel](https://github.com/pedrovgs/DraggablePanel) | Android library used to create an awesome Android UI based on a draggable element similar to the last YouTube graphic component
+
+#### <a name="dialogsui">Dialogs
+
+| Title | Description |
+| :----------: | :--------: |
+[Update Checker](https://github.com/rampo/UpdateChecker) | Increase your app's updates
 
 #### <a name="toastsui">Toasts
 
@@ -297,11 +306,24 @@ Collection if libraries starred during some years of Android Development. Here i
 
 ## <a name="opensourceapps">Open Source Apps
 
-### <a name="chat">Chat
+### <a name="peertopeerapps">P2P
 
 | Title | Description |
 | :----------: | :--------: |
-| [Conversations](https://github.com/siacs/Conversations) |                                                                                                                                                                               
+[Transdroid](https://github.com/erickok/transdroid) | Manage your torrents from your Android device
+
+### <a name="chatapps">Chat
+
+| Title | Description |
+| :----------: | :--------: |
+[Conversations](https://github.com/siacs/Conversations) | Conversations is an open source XMPP (formally known as Jabber) client for Android 4.0+ smart phones
+
+### <a name="otherapps">Other
+
+| Title | Description |
+| :----------: | :--------: |
+[Gaug.es Android](https://github.com/fastestforward/gauges-android) | Gaug.es Android App
+[White House Android](https://github.com/WhiteHouse/wh-app-android) | White House application for Android
 
 <br><br>
 
