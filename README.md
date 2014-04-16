@@ -53,6 +53,7 @@ Collection if libraries starred during some years of Android Development. Here i
 
 [OPEN SOURCE APPS](#opensourceapps)  
 ***
+&nbsp;&nbsp;&nbsp;&nbsp;[Camera](#cameraapps)  
 &nbsp;&nbsp;&nbsp;&nbsp;[P2P](#peertopeerapps)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Chat](#chatapps)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Other](#otherapps)  
