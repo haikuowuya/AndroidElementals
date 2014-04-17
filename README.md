@@ -133,6 +133,11 @@ Collection if libraries starred during some years of Android Development. Here i
 | Title | Description |
 | :----------: | :--------: |
 [Not Boring ActionBar](https://github.com/flavienlaurent/NotBoringActionBar) | News Stand app makes the ActionBar not boring!
+[GlassActionBar](https://github.com/ManuelPeinado/GlassActionBar) | Android - a library that adds a glass-like effect to the action bar.
+[FadingActionBar](https://github.com/ManuelPeinado/FadingActionBar) | Android library implementing a fading effect for the action bar, similar to the one found in the Play Music app
+[ActionBarSherlock](https://github.com/JakeWharton/ActionBarSherlock) | Action bar implementation which uses the native action bar on Android 4.0+ and a custom implementation on pre-4.0 through a single API and theme.
+[ActionBar-PullToRefresh](https://github.com/chrisbanes/ActionBar-PullToRefresh) | 
+A modern implementation of the pull-to-refresh interaction for #android
 
 ###### <a name="slidingviews">Sliding Views
 
