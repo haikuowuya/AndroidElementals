@@ -168,6 +168,8 @@ A modern implementation of the pull-to-refresh interaction for #android
 | Title | Description |
 | :----------: | :--------: |
 [Update Checker](https://github.com/rampo/UpdateChecker) | Increase your app's updates
+[android-styled-dialogs](https://github.com/inmite/android-styled-dialogs) | A simple library for styling Android dialogs in the Holo theme. It also removes boilerplate code for displaying simple dialogs.
+
 
 #### <a name="toastsui">Toasts
 
