@@ -30,6 +30,7 @@ Collection if libraries starred during some years of Android Development. Here i
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---[Camera](#cameraui)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---[Other](#otherui)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Social](#social)  
+&nbsp;&nbsp;&nbsp;&nbsp;[DB & Preferences](#database)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Network](#network)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Tasks](#tasks)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Open GL](#opengl)  
@@ -228,6 +229,14 @@ Collection if libraries starred during some years of Android Development. Here i
 [Twitter 4J](https://github.com/yusuke/twitter4j) | Twitter4J is an open-sourced, mavenized and Google App Engine safe Java library for the Twitter API 
 [Twitter Android SDK](https://github.com/sephiroth74/TwitterAndroidSDK) | Twitter SDK for Android, using Twitter4j
 [Facebook Android SDK](https://github.com/facebook/facebook-android-sdk) | Use the Facebook SDK for Android to integrate with Facebook, help build engaging social apps
+
+### <a name="database">DB & Preferences
+
+[Android SQLite Asset Helper](https://github.com/jgilfelt/android-sqlite-asset-helper) | An Android helper class to manage database creation and version management using an application's raw asset files
+[Cupboard](https://bitbucket.org/qbusict/cupboard) | Cupboard for Android is simple persistence that gets out of your way and is easy to add to your existing code base
+[Sprinkles](https://github.com/emilsjolander/sprinkles) | Sprinkles is a boiler-plate-reduction-library for dealing with databases in android applications
+[Esperandro](https://github.com/dkunzler/esperandro) | Easy SharedPreference Engine for Android
+[Sugar](https://github.com/satyan/sugar) | Insanely easy way to work with Android Database. http://satyan.github.com/sugar/
 
 ### <a name="network">Network
 
