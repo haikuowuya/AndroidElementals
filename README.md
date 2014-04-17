@@ -232,6 +232,8 @@ Collection if libraries starred during some years of Android Development. Here i
 
 ### <a name="database">DB & Preferences
 
+| Title | Description |
+| :----------: | :--------: |
 [Android SQLite Asset Helper](https://github.com/jgilfelt/android-sqlite-asset-helper) | An Android helper class to manage database creation and version management using an application's raw asset files
 [Cupboard](https://bitbucket.org/qbusict/cupboard) | Cupboard for Android is simple persistence that gets out of your way and is easy to add to your existing code base
 [Sprinkles](https://github.com/emilsjolander/sprinkles) | Sprinkles is a boiler-plate-reduction-library for dealing with databases in android applications
