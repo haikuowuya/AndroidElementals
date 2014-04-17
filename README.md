@@ -241,6 +241,7 @@ A modern implementation of the pull-to-refresh interaction for #android
 [Retrofit](https://github.com/square/retrofit) | Type-safe REST client for Android and Java by Square, Inc
 [OkHttp](https://github.com/square/okhttp) | An HTTP+SPDY client for Android and Java applications
 [KSOAP 2](https://code.google.com/p/ksoap2-android/) | Lightweight and efficient SOAP client library for the Android platform
+[android-async-http](https://github.com/loopj/android-async-http) | An Asynchronous HTTP Library for Android
 
 ### <a name="tasks">Tasks
 
