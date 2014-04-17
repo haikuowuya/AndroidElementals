@@ -85,6 +85,7 @@ Collection if libraries starred during some years of Android Development. Here i
 | Title | Description |
 | :----------: | :--------: |
 [Float Label EditText](https://github.com/wrapp/floatlabelededittext) | Floating hint from edit text
+[EditTextMentions](https://github.com/pepibumur/EditTextMentions) | EditText subclass with mentions detection ( like Facebook or Twitter )
 
 
 ###### <a name="imageview">ImageView
