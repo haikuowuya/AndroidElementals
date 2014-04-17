@@ -85,7 +85,7 @@ Collection if libraries starred during some years of Android Development. Here i
 | Title | Description |
 | :----------: | :--------: |
 [Float Label EditText](https://github.com/wrapp/floatlabelededittext) | Floating hint from edit text
-[EditTextMentions](https://github.com/pepibumur/EditTextMentions) | EditText subclass with mentions detection ( like Facebook or Twitter )
+[EditText Mentions](https://github.com/pepibumur/EditTextMentions) | EditText subclass with mentions detection (like Facebook or Twitter)
 
 
 ###### <a name="imageview">ImageView
@@ -94,8 +94,8 @@ Collection if libraries starred during some years of Android Development. Here i
 | :----------: | :--------: |
 [Ken Burns View](https://github.com/flavioarfaria/KenBurnsView) | Android ImageViews animated by Ken Burns Effect
 [PhotoView](https://github.com/chrisbanes/PhotoView) | Implementation of ImageView for Android that supports zooming, by various touch gestures
-[CircleImageView](https://github.com/hdodenhof/CircleImageView) | A circular ImageView for Android
-[CustomShapeImageView](https://github.com/MostafaGazar/CustomShapeImageView) | Custom shape ImageView using PorterDuffXfermode with paint shapes and SVGs
+[Circle ImageView](https://github.com/hdodenhof/CircleImageView) | A circular ImageView for Android
+[Custom Shape ImageView](https://github.com/MostafaGazar/CustomShapeImageView) | Custom shape ImageView using PorterDuffXfermode with paint shapes and SVGs
 
 ###### <a name="progressbar">ProgressBar
 
@@ -104,7 +104,7 @@ Collection if libraries starred during some years of Android Development. Here i
 [Holo Circular ProgressBar](https://github.com/passsy/android-HoloCircularProgressBar) | is a Custom View implementation for Android you might know from the Android Clock
 [Google ProgressBar](https://github.com/jpardogo/GoogleProgressBar) | Android library to display progress like google does in some of his services
 [Smooth ProgressBar](https://github.com/castorflex/SmoothProgressBar) | A small Android library allowing you to have a smooth and customizable horizontal indeterminate ProgressBar
-[ProgressWheel](https://github.com/Todd-Davies/ProgressWheel) | A progress wheel for android, intended for use instead of the standard progress bar.   
+[Progress Wheel](https://github.com/Todd-Davies/ProgressWheel) | A progress wheel for android, intended for use instead of the standard progress bar  
 
 ###### <a name="listview">ListView
 
@@ -118,7 +118,7 @@ Collection if libraries starred during some years of Android Development. Here i
 
 | Title | Description |
 | :----------: | :--------: |
-[StartPoint SeekBar](https://github.com/vashisthg/StartPointSeekBar) | StartPointSeekBar is a custom view for the Android platform that makes it possible to have a SeekBar to have custom start point
+[Start Point SeekBar](https://github.com/vashisthg/StartPointSeekBar) | StartPointSeekBar is a custom view for the Android platform that makes it possible to have a SeekBar to have custom start point
 
 ###### <a name="gridview">GridView
 
@@ -137,11 +137,9 @@ Collection if libraries starred during some years of Android Development. Here i
 | Title | Description |
 | :----------: | :--------: |
 [Not Boring ActionBar](https://github.com/flavienlaurent/NotBoringActionBar) | News Stand app makes the ActionBar not boring!
-[GlassActionBar](https://github.com/ManuelPeinado/GlassActionBar) | Android - a library that adds a glass-like effect to the action bar.
-[FadingActionBar](https://github.com/ManuelPeinado/FadingActionBar) | Android library implementing a fading effect for the action bar, similar to the one found in the Play Music app
-[ActionBarSherlock](https://github.com/JakeWharton/ActionBarSherlock) | Action bar implementation which uses the native action bar on Android 4.0+ and a custom implementation on pre-4.0 through a single API and theme.
-[ActionBar-PullToRefresh](https://github.com/chrisbanes/ActionBar-PullToRefresh) | 
-A modern implementation of the pull-to-refresh interaction for #android
+[Glass ActionBar](https://github.com/ManuelPeinado/GlassActionBar) | A library that adds a glass-like effect to the action bar
+[Fading ActionBar](https://github.com/ManuelPeinado/FadingActionBar) | Android library implementing a fading effect for the action bar, similar to the one found in the Play Music app
+[ActionBar PullToRefresh](https://github.com/chrisbanes/ActionBar-PullToRefresh) | A modern implementation of the pull-to-refresh interaction for #android
 
 ###### <a name="slidingviews">Sliding Views
 
@@ -168,7 +166,7 @@ A modern implementation of the pull-to-refresh interaction for #android
 | Title | Description |
 | :----------: | :--------: |
 [Update Checker](https://github.com/rampo/UpdateChecker) | Increase your app's updates
-[android-styled-dialogs](https://github.com/inmite/android-styled-dialogs) | A simple library for styling Android dialogs in the Holo theme. It also removes boilerplate code for displaying simple dialogs.
+[Android Style Dialogs](https://github.com/inmite/android-styled-dialogs) | A simple library for styling Android dialogs in the Holo theme. It also removes boilerplate code for displaying simple dialogs
 
 
 #### <a name="toastsui">Toasts
@@ -241,7 +239,7 @@ A modern implementation of the pull-to-refresh interaction for #android
 [Retrofit](https://github.com/square/retrofit) | Type-safe REST client for Android and Java by Square, Inc
 [OkHttp](https://github.com/square/okhttp) | An HTTP+SPDY client for Android and Java applications
 [KSOAP 2](https://code.google.com/p/ksoap2-android/) | Lightweight and efficient SOAP client library for the Android platform
-[android-async-http](https://github.com/loopj/android-async-http) | An Asynchronous HTTP Library for Android
+[Android Async Http](https://github.com/loopj/android-async-http) | An Asynchronous HTTP Library for Android
 
 ### <a name="tasks">Tasks
 
