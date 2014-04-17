@@ -85,6 +85,7 @@ Collection if libraries starred during some years of Android Development. Here i
 | Title | Description |
 | :----------: | :--------: |
 [Float Label EditText](https://github.com/wrapp/floatlabelededittext) | Floating hint from edit text
+[EditTextMentions](https://github.com/pepibumur/EditTextMentions) | EditText subclass with mentions detection ( like Facebook or Twitter )
 
 
 ###### <a name="imageview">ImageView
@@ -93,6 +94,8 @@ Collection if libraries starred during some years of Android Development. Here i
 | :----------: | :--------: |
 [Ken Burns View](https://github.com/flavioarfaria/KenBurnsView) | Android ImageViews animated by Ken Burns Effect
 [PhotoView](https://github.com/chrisbanes/PhotoView) | Implementation of ImageView for Android that supports zooming, by various touch gestures
+[CircleImageView](https://github.com/hdodenhof/CircleImageView) | A circular ImageView for Android
+[CustomShapeImageView](https://github.com/MostafaGazar/CustomShapeImageView) | Custom shape ImageView using PorterDuffXfermode with paint shapes and SVGs
 
 ###### <a name="progressbar">ProgressBar
 
@@ -100,7 +103,8 @@ Collection if libraries starred during some years of Android Development. Here i
 | :----------: | :--------: |
 [Holo Circular ProgressBar](https://github.com/passsy/android-HoloCircularProgressBar) | is a Custom View implementation for Android you might know from the Android Clock
 [Google ProgressBar](https://github.com/jpardogo/GoogleProgressBar) | Android library to display progress like google does in some of his services
-[Smooth ProgressBar](https://github.com/castorflex/SmoothProgressBar) | A small Android library allowing you to have a smooth and customizable horizontal indeterminate ProgressBar   
+[Smooth ProgressBar](https://github.com/castorflex/SmoothProgressBar) | A small Android library allowing you to have a smooth and customizable horizontal indeterminate ProgressBar
+[ProgressWheel](https://github.com/Todd-Davies/ProgressWheel) | A progress wheel for android, intended for use instead of the standard progress bar.   
 
 ###### <a name="listview">ListView
 
@@ -133,6 +137,11 @@ Collection if libraries starred during some years of Android Development. Here i
 | Title | Description |
 | :----------: | :--------: |
 [Not Boring ActionBar](https://github.com/flavienlaurent/NotBoringActionBar) | News Stand app makes the ActionBar not boring!
+[GlassActionBar](https://github.com/ManuelPeinado/GlassActionBar) | Android - a library that adds a glass-like effect to the action bar.
+[FadingActionBar](https://github.com/ManuelPeinado/FadingActionBar) | Android library implementing a fading effect for the action bar, similar to the one found in the Play Music app
+[ActionBarSherlock](https://github.com/JakeWharton/ActionBarSherlock) | Action bar implementation which uses the native action bar on Android 4.0+ and a custom implementation on pre-4.0 through a single API and theme.
+[ActionBar-PullToRefresh](https://github.com/chrisbanes/ActionBar-PullToRefresh) | 
+A modern implementation of the pull-to-refresh interaction for #android
 
 ###### <a name="slidingviews">Sliding Views
 
@@ -159,6 +168,8 @@ Collection if libraries starred during some years of Android Development. Here i
 | Title | Description |
 | :----------: | :--------: |
 [Update Checker](https://github.com/rampo/UpdateChecker) | Increase your app's updates
+[android-styled-dialogs](https://github.com/inmite/android-styled-dialogs) | A simple library for styling Android dialogs in the Holo theme. It also removes boilerplate code for displaying simple dialogs.
+
 
 #### <a name="toastsui">Toasts
 
@@ -230,6 +241,7 @@ Collection if libraries starred during some years of Android Development. Here i
 [Retrofit](https://github.com/square/retrofit) | Type-safe REST client for Android and Java by Square, Inc
 [OkHttp](https://github.com/square/okhttp) | An HTTP+SPDY client for Android and Java applications
 [KSOAP 2](https://code.google.com/p/ksoap2-android/) | Lightweight and efficient SOAP client library for the Android platform
+[android-async-http](https://github.com/loopj/android-async-http) | An Asynchronous HTTP Library for Android
 
 ### <a name="tasks">Tasks
 
