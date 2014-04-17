@@ -239,6 +239,8 @@ Collection if libraries starred during some years of Android Development. Here i
 [Sprinkles](https://github.com/emilsjolander/sprinkles) | Sprinkles is a boiler-plate-reduction-library for dealing with databases in android applications
 [Esperandro](https://github.com/dkunzler/esperandro) | Easy SharedPreference Engine for Android
 [Sugar](https://github.com/satyan/sugar) | Insanely easy way to work with Android Database. http://satyan.github.com/sugar/
+[Secure Preferences](https://github.com/scottyab/secure-preferences) | Android SharedPreference wrapper that encrypts keys and values of Shared Preferences. It's not bullet proof security but rather a quick win for incrementally making your android app more secure
+[AES Secure Preferences](https://github.com/chrisjenx/android-secure-preferences) | Secure AES Encryiption decorated Android Shared Preferences implementation
 
 ### <a name="network">Network
 
