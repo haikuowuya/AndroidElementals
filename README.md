@@ -94,6 +94,8 @@ Collection if libraries starred during some years of Android Development. Here i
 | :----------: | :--------: |
 [Ken Burns View](https://github.com/flavioarfaria/KenBurnsView) | Android ImageViews animated by Ken Burns Effect
 [PhotoView](https://github.com/chrisbanes/PhotoView) | Implementation of ImageView for Android that supports zooming, by various touch gestures
+[CircleImageView](https://github.com/hdodenhof/CircleImageView) | A circular ImageView for Android
+[CustomShapeImageView](https://github.com/MostafaGazar/CustomShapeImageView) | Custom shape ImageView using PorterDuffXfermode with paint shapes and SVGs
 
 ###### <a name="progressbar">ProgressBar
 
