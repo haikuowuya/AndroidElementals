@@ -128,6 +128,7 @@ Collection if libraries starred during some years of Android Development. Here i
 [ViewPager Indicator](https://github.com/JakeWharton/Android-ViewPagerIndicator) | Paging indicator widgets compatible with the ViewPager from the Android Support Library and ActionBarSherlock
 [Salvage](https://github.com/JakeWharton/salvage) | Generic view recycler and ViewPager PagerAdapter implementation
 [Auto Scroll ViewPager](https://github.com/Trinea/android-auto-scroll-view-pager) | auto scroll ViewPager or ViewPager in ViewPager. http://www.trinea.cn/
+[Pager Sliding Tab Strip](https://github.com/astuetz/PagerSlidingTabStrip) | An interactive indicator to navigate between the different pages of a ViewPager
 
 ###### <a name="seekbar">SeekBar
 
