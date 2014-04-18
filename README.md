@@ -98,6 +98,7 @@ Collection if libraries starred during some years of Android Development. Here i
 [PhotoView](https://github.com/chrisbanes/PhotoView) | Implementation of ImageView for Android that supports zooming, by various touch gestures
 [Circle ImageView](https://github.com/hdodenhof/CircleImageView) | A circular ImageView for Android
 [Custom Shape ImageView](https://github.com/MostafaGazar/CustomShapeImageView) | Custom shape ImageView using PorterDuffXfermode with paint shapes and SVGs
+[Rounded ImageView](https://github.com/vinc3m1/RoundedImageView) | a fast ImageView that supports rounded corners and ovals or circles
 
 ###### <a name="progressbar">ProgressBar
 
@@ -129,6 +130,8 @@ Collection if libraries starred during some years of Android Development. Here i
 [Salvage](https://github.com/JakeWharton/salvage) | Generic view recycler and ViewPager PagerAdapter implementation
 [Auto Scroll ViewPager](https://github.com/Trinea/android-auto-scroll-view-pager) | auto scroll ViewPager or ViewPager in ViewPager. http://www.trinea.cn/
 [Pager Sliding Tab Strip](https://github.com/astuetz/PagerSlidingTabStrip) | An interactive indicator to navigate between the different pages of a ViewPager
+[Numeric Page Indicator](https://github.com/ManuelPeinado/NumericPageIndicator) | A ViewPager page indicator that displays the current page number and (optionally) the page count
+[Wizard Pager](https://github.com/TechFreak/WizardPager) | Wizard Pager is a library that provides an example implementation of a Wizard UI on Android, it's based of Roman Nurik's wizard pager (https://code.google.com/p/romannurik-code/source/browse/misc/wizardpager)
 
 ###### <a name="seekbar">SeekBar
 
@@ -166,6 +169,7 @@ Collection if libraries starred during some years of Android Development. Here i
 [DobSliding](https://github.com/Startappz/DobSliding) | DobSliding is an Open Source Android library that allows developers to develop applications with vertical sliding menus just like the Android notifications menu
 [Menu Drawer](https://github.com/SimonVT/android-menudrawer) | A slide-out menu implementation, which allows users to navigate between views in your app. http://simonvt.github.com/android-menudrawer/
 [Sliding Menu](https://github.com/jfeinstein10/SlidingMenu) | An Android library that allows you to easily create applications with slide-in menus
+[Side Navigation](https://github.com/johnkil/SideNavigation) | Implementation of "SIde Navigation" or "Fly-in app menu" pattern for Android (based on Google+ app). http://johnkil.github.com/SideNavigation
 
 ###### <a name="otherwidgets">Other
 
@@ -194,6 +198,8 @@ Collection if libraries starred during some years of Android Development. Here i
 | Title | Description |
 | :----------: | :--------: |
 [Super Toasts](https://github.com/JohnPersano/SuperToasts) | A library that extends the Android toast framework
+[Message Bar](https://github.com/simonvt/messagebar) | An Android Toast replacement, similar to the one seen in the GMail app. http://simonvt.github.com/MessageBar/
+[Undo Bar](https://github.com/soarcn/UndoBar) | The UI component for Android advanced UI pattern undo-bar, used in Gmail app, create by Roman Nurik. http://soarcn.github.io/UndoBar
 
 #### <a name="animationui">Animation
 
