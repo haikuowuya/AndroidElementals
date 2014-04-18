@@ -145,6 +145,7 @@ Collection if libraries starred during some years of Android Development. Here i
 [Glass ActionBar](https://github.com/ManuelPeinado/GlassActionBar) | A library that adds a glass-like effect to the action bar
 [Fading ActionBar](https://github.com/ManuelPeinado/FadingActionBar) | Android library implementing a fading effect for the action bar, similar to the one found in the Play Music app
 [ActionBar PullToRefresh](https://github.com/chrisbanes/ActionBar-PullToRefresh) | A modern implementation of the pull-to-refresh interaction for #android
+[Refresh Action Item](https://github.com/ManuelPeinado/RefreshActionItem) | An action bar item which acts both as a refresh button and as a progress indicator
 
 ###### <a name="slidingviews">Sliding Views
 
