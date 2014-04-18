@@ -99,6 +99,7 @@ Collection if libraries starred during some years of Android Development. Here i
 [Circle ImageView](https://github.com/hdodenhof/CircleImageView) | A circular ImageView for Android
 [Custom Shape ImageView](https://github.com/MostafaGazar/CustomShapeImageView) | Custom shape ImageView using PorterDuffXfermode with paint shapes and SVGs
 [Rounded ImageView](https://github.com/vinc3m1/RoundedImageView) | a fast ImageView that supports rounded corners and ovals or circles
+[Flip ImageView](https://github.com/castorflex/FlipImageView) | Small android lib allowing you to make a flip imageview easily, by extending FlipImageView
 
 ###### <a name="progressbar">ProgressBar
 
@@ -144,6 +145,7 @@ Collection if libraries starred during some years of Android Development. Here i
 | Title | Description |
 | :----------: | :--------: |
 [Asymmetric GridView](https://github.com/felipecsl/AsymmetricGridView) | Crazy-ass Android GridView with asymmetric items
+[Sticky Grid Headers](https://github.com/TonicArtos/StickyGridHeaders) | An Android Library that makes it easy to make grid views with sectioned data and headers that stick to the top. http://tonicartos.github.io/StickyGridHeaders/
 
 ###### <a name="scrollview">ScrollView
 
@@ -184,6 +186,7 @@ Collection if libraries starred during some years of Android Development. Here i
 [FreeFlow](https://github.com/Comcast/FreeFlow) | A layout engine for Android that decouples layouts from the View containers that manage scrolling and view recycling. FreeFlow makes it really easy to create custom layouts and beautiful transition animations as data and layouts change
 [Draggable Panel](https://github.com/pedrovgs/DraggablePanel) | Android library used to create an awesome Android UI based on a draggable element similar to the last YouTube graphic component
 [Android Reside Menu](https://github.com/SpecialCyCi/AndroidResideMenu) | The idea of ResideMenu is from Dribbble 1 and 2. It has come true and run in iOS devices. iOS ResideMenu This project is the RefsideMenu Android version. The visual effect is partly referred to iOS version of ResideMenu
+[ShowCase View](https://github.com/amlcurran/ShowcaseView) | Highlight the best bits of your app to users quickly, simply, and cool. http://amlcurran.github.io/ShowcaseView/
 
 #### <a name="dialogsui">Dialogs
 
