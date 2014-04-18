@@ -114,6 +114,10 @@ Collection if libraries starred during some years of Android Development. Here i
 [Flabby ListView](https://github.com/jpardogo/FlabbyListView) | Android library to display a ListView which cells are not rigid but flabby and react to ListView scroll and touch events
 [Dob List](https://github.com/bilalsammour/DobList) | DobLis is an Open Source Android library that provides to ListView adding ProgressBar (or any view) to the footer of ListView to be shown in loading more, and callback that is called when reaching last item in ListView
 [Swipe ListView](https://github.com/47deg/android-swipelistview) | An Android List View implementation with support for drawable cells and many other swipe related features
+[Multi Choice Adapter](https://github.com/ManuelPeinado/MultiChoiceAdapter) | A ListView adapter with support for multiple choice modal selection
+[Jazzy ListView](https://github.com/twotoasters/JazzyListView) | JazzyListView is an extension of ListView designed to animate list item views as they become visible
+[ListView Animations](https://github.com/nhaarman/ListViewAnimations) | An Android library which allows developers to easily add animations to ListView items
+[Slide Expandable ListView](https://github.com/tjerkw/Android-SlideExpandableListView) | A better ExpandableListView, with animated expandable views for each list item
 
 ###### <a name="seekbar">SeekBar
 
@@ -196,6 +200,11 @@ Collection if libraries starred during some years of Android Development. Here i
 [Ken Burns View](https://github.com/flavioarfaria/KenBurnsView) * | Android ImageViews animated by Ken Burns Effect
 [Draggable Panel](https://github.com/pedrovgs/DraggablePanel) * | Android library used to create an awesome Android UI based on a draggable element similar to the last YouTube graphic component
 [DobSliding](https://github.com/Startappz/DobSliding) * | DobSliding is an Open Source Android library that allows developers to develop applications with vertical sliding menus just like the Android notifications menu
+[Jazzy ListView](https://github.com/twotoasters/JazzyListView) * | JazzyListView is an extension of ListView designed to animate list item views as they become visible
+[ListView Animations](https://github.com/nhaarman/ListViewAnimations) * | An Android library which allows developers to easily add animations to ListView items
+[Slide Expandable ListView](https://github.com/tjerkw/Android-SlideExpandableListView) * | A better ExpandableListView, with animated expandable views for each list item
+[Sticky List Headers](https://github.com/emilsjolander/StickyListHeaders) | An android library for section headers that stick to the top
+[Android ScrollBar Panel](https://github.com/rno/Android-ScrollBarPanel) | Android ScrollBarPanel allows to attach a View to a scroll indicator like it's done in Path 2.0
 
 #### <a name="mapsui">Maps
 
