@@ -386,6 +386,7 @@ Collection if libraries starred during some years of Android Development. Here i
 | Title | Description |
 | :----------: | :--------: |
 [Conversations](https://github.com/siacs/Conversations) | Conversations is an open source XMPP (formally known as Jabber) client for Android 4.0+ smart phones
+[Text Secure](https://github.com/WhisperSystems/TextSecure) | A secure text messaging application for Android
 
 ### <a name="otherapps">Other
 
