@@ -121,6 +121,7 @@ Collection if libraries starred during some years of Android Development. Here i
 [Jazzy ListView](https://github.com/twotoasters/JazzyListView) | JazzyListView is an extension of ListView designed to animate list item views as they become visible
 [ListView Animations](https://github.com/nhaarman/ListViewAnimations) | An Android library which allows developers to easily add animations to ListView items
 [Slide Expandable ListView](https://github.com/tjerkw/Android-SlideExpandableListView) | A better ExpandableListView, with animated expandable views for each list item
+[Swipe ListView](https://github.com/47deg/android-swipelistview) | An Android List View implementation with support for drawable cells and many other swipe related features
 
 ###### <a name="viewpager">ViewPager
 
