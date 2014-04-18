@@ -14,6 +14,7 @@ Collection if libraries starred during some years of Android Development. Here i
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[ImageView](#imageview)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[ProgressBar](#progressbar)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[ListView](#listview)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[ViewPager](#viewpager)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[SeekBar](#seekbar)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[GridView](#gridview)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[ScrollView](#scrollview)  
@@ -119,6 +120,15 @@ Collection if libraries starred during some years of Android Development. Here i
 [ListView Animations](https://github.com/nhaarman/ListViewAnimations) | An Android library which allows developers to easily add animations to ListView items
 [Slide Expandable ListView](https://github.com/tjerkw/Android-SlideExpandableListView) | A better ExpandableListView, with animated expandable views for each list item
 
+###### <a name="viewpager">ViewPager
+
+| Title | Description |
+| :----------: | :--------: |
+[Jazzy ViewPager](https://github.com/jfeinstein10/JazzyViewPager) | An easy to use ViewPager that adds an awesome set of custom swiping animations. Just change your ViewPagers to JazzyViewPagers, two more steps, and you're good to go!
+[ViewPager Indicator](https://github.com/JakeWharton/Android-ViewPagerIndicator) | Paging indicator widgets compatible with the ViewPager from the Android Support Library and ActionBarSherlock
+[Salvage](https://github.com/JakeWharton/salvage) | Generic view recycler and ViewPager PagerAdapter implementation
+[Auto Scroll ViewPager](https://github.com/Trinea/android-auto-scroll-view-pager) | auto scroll ViewPager or ViewPager in ViewPager. http://www.trinea.cn/
+
 ###### <a name="seekbar">SeekBar
 
 | Title | Description |
@@ -153,6 +163,8 @@ Collection if libraries starred during some years of Android Development. Here i
 | :----------: | :--------: |
 [Android Sliding Up Panel](https://github.com/umano/AndroidSlidingUpPanel) | This type of a panel is a common pattern also used in the Google Music app and the Rdio app
 [DobSliding](https://github.com/Startappz/DobSliding) | DobSliding is an Open Source Android library that allows developers to develop applications with vertical sliding menus just like the Android notifications menu
+[Menu Drawer](https://github.com/SimonVT/android-menudrawer) | A slide-out menu implementation, which allows users to navigate between views in your app. http://simonvt.github.com/android-menudrawer/
+[Sliding Menu](https://github.com/jfeinstein10/SlidingMenu) | An Android library that allows you to easily create applications with slide-in menus
 
 ###### <a name="otherwidgets">Other
 
@@ -166,6 +178,7 @@ Collection if libraries starred during some years of Android Development. Here i
 [Quilt View Library](https://github.com/jacobmoncur/QuiltViewLibrary) | QuiltView displays views of different sizes in a scrollable grid
 [FreeFlow](https://github.com/Comcast/FreeFlow) | A layout engine for Android that decouples layouts from the View containers that manage scrolling and view recycling. FreeFlow makes it really easy to create custom layouts and beautiful transition animations as data and layouts change
 [Draggable Panel](https://github.com/pedrovgs/DraggablePanel) | Android library used to create an awesome Android UI based on a draggable element similar to the last YouTube graphic component
+[Android Reside Menu](https://github.com/SpecialCyCi/AndroidResideMenu) | The idea of ResideMenu is from Dribbble 1 and 2. It has come true and run in iOS devices. iOS ResideMenu This project is the RefsideMenu Android version. The visual effect is partly referred to iOS version of ResideMenu
 
 #### <a name="dialogsui">Dialogs
 
