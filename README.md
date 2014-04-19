@@ -306,13 +306,13 @@ Collection if libraries starred during some years of Android Development. Here i
 
 | Title | Description |
 | :----------: | :--------: |
-[Butterknife](https://github.com/JakeWharton/butterknife) | Like Selenium, but for Android
+[Butterknife](https://github.com/JakeWharton/butterknife) | View "injection" library for Android
 
 ### <a name="testing">Testing
 
 | Title | Description |
 | :----------: | :--------: |
-[Robotium](https://github.com/RobotiumTech/robotium) | View "injection" library for Android
+[Robotium](https://github.com/RobotiumTech/robotium) | Like Selenium, but for Android
 [Spoon](https://github.com/square/spoon) | Distributing instrumentation tests to all your Androids
 [Fest Android](https://github.com/square/fest-android) | A set of FEST assertion helpers geared toward testing Android
 
