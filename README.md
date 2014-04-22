@@ -88,6 +88,7 @@ Collection if libraries starred during some years of Android Development. Here i
 | :----------: | :--------: |
 [Float Label EditText](https://github.com/wrapp/floatlabelededittext) | Floating hint from edit text
 [EditText Mentions](https://github.com/pepibumur/EditTextMentions) | EditText subclass with mentions detection (like Facebook or Twitter)
+[History EditText](https://github.com/zenlibs/HistoryEditText) | Android EditText that auto-saves previous values and displays them in a dropdown when used again
 
 
 ###### <a name="imageview">ImageView
