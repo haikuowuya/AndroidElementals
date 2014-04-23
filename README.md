@@ -298,8 +298,7 @@ Collection if libraries starred during some years of Android Development. Here i
 
 | Title | Description |
 | :----------: | :--------: |
-[Conceal](https://github.com/facebook/conceal) | Conceal provides easy Android APIs for performing fast encryption and authentication of data, such as that stored on SD cards 
-http://facebook.github.io/conceal/
+[Conceal](https://github.com/facebook/conceal) | Conceal provides easy Android APIs for performing fast encryption and authentication of data, such as that stored on SD cards. http://facebook.github.io/conceal/
 
 ### <a name="network">Network
 
@@ -348,6 +347,7 @@ http://square.github.io/otto/
 [Robotium](https://github.com/RobotiumTech/robotium) | Like Selenium, but for Android
 [Spoon](https://github.com/square/spoon) | Distributing instrumentation tests to all your Androids
 [Fest Android](https://github.com/square/fest-android) | A set of FEST assertion helpers geared toward testing Android
+[Double Espresso](https://github.com/JakeWharton/double-espresso) | A pure Gradle port of the Espresso testing utility for Android
 
 ### <a name="reverseengineering">Reverse Engineering
 
@@ -373,6 +373,7 @@ http://square.github.io/otto/
 | :----------: | :--------: |
 [ZXing](https://github.com/zxing/zxing) | Official ZXing ("Zebra Crossing") project home
 [ZXing Android Minimal](https://github.com/embarkmobile/zxing-android-minimal) | Port of the ZXing Android application as a minimal Android library project, for embedding in other Android applications
+[ZXing Fragment](https://github.com/welcu/zxingfragmentlib) | Barcode scanner for Android fragments. Compatible with Android 2.1+
 [Barcode Scanner](https://github.com/dm77/barcodescanner) | Barcode Scanner Libraries for Android
 
 <br><br>
