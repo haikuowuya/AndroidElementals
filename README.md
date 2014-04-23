@@ -30,6 +30,7 @@ Collection if libraries starred during some years of Android Development. Here i
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---[Validation](#validationui)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---[Camera](#cameraui)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---[Other](#otherui)  
+&nbsp;&nbsp;&nbsp;&nbsp;[Location](#location)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Social](#social)  
 &nbsp;&nbsp;&nbsp;&nbsp;[DB & Preferences](#database)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Network](#network)  
@@ -258,6 +259,14 @@ Collection if libraries starred during some years of Android Development. Here i
 | :----------: | :--------: |
 [Shake Detector](https://github.com/tbouron/ShakeDetector) | This library provides a easy way to detect a shake movement using the build-in accelerometer and fire a callback on the UI thread every times it happens
 [Android Face Cropper](https://github.com/lafosca/AndroidFaceCropper) | Android bitmap Face Cropper
+
+### <a name="location">Location
+
+| Title | Description |
+| :----------: | :--------: |
+[Fluffy](https://code.google.com/p/little-fluffy-location-library/) | Battery-friendly background location updates for Android, using Google Play Location where available
+[Fused Location](https://github.com/levelup/Android-FusedLocation) | This project aims to bring the Fused location provider to android apps without requiring the Play Services library
+[Reactive Location](https://github.com/mcharmas/Android-ReactiveLocation) | Small library that wraps Google Play Service API in brilliant RxJava Observables reducing boilerplate to minimum
 
 ### <a name="social">Social
 
