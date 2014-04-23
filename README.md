@@ -21,7 +21,7 @@ Collection if libraries starred during some years of Android Development. Here i
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[ActionBar](#actionbar)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[Sliding Views](#slidingviews)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[Other](#otherwidgets)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---[Dialogs & Pickers](#dialogspickerssui)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---[Dialogs & Pickers](#dialogspickersui)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---[Toasts](#toastsui)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---[Animation](#animationui)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[Parallax](#parallaxui)  
