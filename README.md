@@ -34,12 +34,14 @@ Collection if libraries starred during some years of Android Development. Here i
 &nbsp;&nbsp;&nbsp;&nbsp;[Social](#social)  
 &nbsp;&nbsp;&nbsp;&nbsp;[DB & Preferences](#database)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Network](#network)  
+&nbsp;&nbsp;&nbsp;&nbsp;[Event Bus](#eventbus)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Tasks](#tasks)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Open GL](#opengl)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Dependency Injection](#dependencyinjection)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Testing](#testing)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Reverse Engineering](#reverseengineering)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Bluetooth](#bluetooth)  
+&nbsp;&nbsp;&nbsp;&nbsp;[Scan](#scan)  
 &nbsp;&nbsp;&nbsp;&nbsp;[File Pickers](#filepickers)  
 <br>
 
@@ -54,6 +56,7 @@ Collection if libraries starred during some years of Android Development. Here i
 ***
 &nbsp;&nbsp;&nbsp;&nbsp;[Testing](#testingtools)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Log](#logtools)  
+&nbsp;&nbsp;&nbsp;&nbsp;[Localization](#localizationtools)  
 <br>
 
 [OPEN SOURCE APPS](#opensourceapps)  
@@ -301,6 +304,14 @@ Collection if libraries starred during some years of Android Development. Here i
 [KSOAP 2](https://code.google.com/p/ksoap2-android/) | Lightweight and efficient SOAP client library for the Android platform
 [Android Async Http](https://github.com/loopj/android-async-http) | An Asynchronous HTTP Library for Android
 
+### <a name="eventbus">Event Bus
+
+| Title | Description |
+| :----------: | :--------: |
+[Otto](https://github.com/square/otto) | An enhanced Guava-based event bus with emphasis on Android support. 
+http://square.github.io/otto/
+[EventBus](https://github.com/greenrobot/EventBus) | Android optimized event bus that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality
+
 ### <a name="tasks">Tasks
 
 | Title | Description |
@@ -347,6 +358,14 @@ Collection if libraries starred during some years of Android Development. Here i
 | :----------: | :--------: |
 [Android Bluetooth SPP](https://github.com/akexorcist/Android-BluetoothSPPLibrary) | Bluetooth Serial Port Profile which comfortable to developer application to communication with microcontroller via bluetooth
 
+### <a name="scan">Scan
+
+| Title | Description |
+| :----------: | :--------: |
+[ZXing](https://github.com/zxing/zxing) | Official ZXing ("Zebra Crossing") project home
+[ZXing Android Minimal](https://github.com/embarkmobile/zxing-android-minimal) | Port of the ZXing Android application as a minimal Android library project, for embedding in other Android applications
+[Barcode Scanner](https://github.com/dm77/barcodescanner) | Barcode Scanner Libraries for Android
+
 <br><br>
 
 ## <a name="samples">Samples
@@ -387,6 +406,12 @@ Collection if libraries starred during some years of Android Development. Here i
 [Phone Home](https://github.com/nebulabsnyc/PhoneHome) | PhoneHome is a standalone library that sends logs from remote Android devices to a central server for debugging. PhoneHome requires nothing of end users
 [Timber](https://github.com/JakeWharton/timber) | A logger with a small, extensible API which provides utility on top of Android's normal Log class. http://jakewharton.github.io/timber/
 [Debug Log](https://github.com/MustafaFerhan/DebugLog) | Create a simple and more understandable Android logs
+
+### <a name="localizationtools">Localization
+
+| Title | Description |
+| :----------: | :--------: |
+[DexterApps Translation Util](https://github.com/pranayairan/Dexterapps-Translation-Util) | Automatic String Translation Utility for Android and iOS
 
 <br><br>
 
