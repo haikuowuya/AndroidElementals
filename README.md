@@ -375,14 +375,14 @@ Collection if libraries starred during some years of Android Development. Here i
 
 ### <a name="testingtools">Testing
 
-| Title |
-| :----------: |
-| [Quality Tools for Android](https://github.com/stephanenicolas/Quality-Tools-for-Android) |  This is an Android sample app + tests that will be used to work on various project to increase the quality of the Android platform
+| Title | Description |
+| :----------: | :--------: |
+[Quality Tools for Android](https://github.com/stephanenicolas/Quality-Tools-for-Android) |  This is an Android sample app + tests that will be used to work on various project to increase the quality of the Android platform
 
 ### <a name="logtools">Log
 
-| Title |
-| :----------: |
+| Title | Description |
+| :----------: | :--------: |
 [Hugo](https://github.com/JakeWharton/hugo) | Annotation-triggered method call logging for your debug builds
 [Phone Home](https://github.com/nebulabsnyc/PhoneHome) | PhoneHome is a standalone library that sends logs from remote Android devices to a central server for debugging. PhoneHome requires nothing of end users
 [Timber](https://github.com/JakeWharton/timber) | A logger with a small, extensible API which provides utility on top of Android's normal Log class. http://jakewharton.github.io/timber/
