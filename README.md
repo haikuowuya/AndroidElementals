@@ -33,6 +33,7 @@ Collection if libraries starred during some years of Android Development. Here i
 &nbsp;&nbsp;&nbsp;&nbsp;[Location](#location)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Social](#social)  
 &nbsp;&nbsp;&nbsp;&nbsp;[DB & Preferences](#database)  
+&nbsp;&nbsp;&nbsp;&nbsp;[IO](#io)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Network](#network)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Event Bus](#eventbus)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Tasks](#tasks)  
@@ -220,6 +221,7 @@ Collection if libraries starred during some years of Android Development. Here i
 | Title | Description |
 | :----------: | :--------: |
 [Motion](https://github.com/nvanbenschoten/motion) | An Android library allowing images to exhibit a parallax effect
+[Parallax Pager](https://github.com/prolificinteractive/ParallaxPager) | Add some depth to your Android scrolling
 
 ###### <a name="otheranimation">Other
 
@@ -291,6 +293,13 @@ Collection if libraries starred during some years of Android Development. Here i
 [Sugar](https://github.com/satyan/sugar) | Insanely easy way to work with Android Database. http://satyan.github.com/sugar/
 [Secure Preferences](https://github.com/scottyab/secure-preferences) | Android SharedPreference wrapper that encrypts keys and values of Shared Preferences. It's not bullet proof security but rather a quick win for incrementally making your android app more secure
 [AES Secure Preferences](https://github.com/chrisjenx/android-secure-preferences) | Secure AES Encryiption decorated Android Shared Preferences implementation
+
+### <a name="io">IO
+
+| Title | Description |
+| :----------: | :--------: |
+[Conceal](https://github.com/facebook/conceal) | Conceal provides easy Android APIs for performing fast encryption and authentication of data, such as that stored on SD cards 
+http://facebook.github.io/conceal/
 
 ### <a name="network">Network
 
