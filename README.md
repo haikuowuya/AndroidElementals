@@ -21,7 +21,7 @@ Collection if libraries starred during some years of Android Development. Here i
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[ActionBar](#actionbar)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[Sliding Views](#slidingviews)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[Other](#otherwidgets)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---[Dialogs](#dialogsui)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---[Dialogs & Pickers](#dialogspickerssui)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---[Toasts](#toastsui)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---[Animation](#animationui)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[Parallax](#parallaxui)  
@@ -190,12 +190,14 @@ Collection if libraries starred during some years of Android Development. Here i
 [Android Reside Menu](https://github.com/SpecialCyCi/AndroidResideMenu) | The idea of ResideMenu is from Dribbble 1 and 2. It has come true and run in iOS devices. iOS ResideMenu This project is the RefsideMenu Android version. The visual effect is partly referred to iOS version of ResideMenu
 [ShowCase View](https://github.com/amlcurran/ShowcaseView) | Highlight the best bits of your app to users quickly, simply, and cool. http://amlcurran.github.io/ShowcaseView/
 
-#### <a name="dialogsui">Dialogs
+#### <a name="dialogspickersui">Dialogs & Pickers
 
 | Title | Description |
 | :----------: | :--------: |
 [Update Checker](https://github.com/rampo/UpdateChecker) | Increase your app's updates
 [Android Style Dialogs](https://github.com/inmite/android-styled-dialogs) | A simple library for styling Android dialogs in the Holo theme. It also removes boilerplate code for displaying simple dialogs
+[DateTime Picker](https://github.com/flavienlaurent/datetimepicker) | DateTimePicker is a library which contains the beautiful DatePicker that can be seen in the new Google Agenda app
+[Recurrence Picker](https://github.com/Shusshu/Android-RecurrencePicker) | Google Calendar Recurrence picker
 
 
 #### <a name="toastsui">Toasts
