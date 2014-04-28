@@ -65,6 +65,7 @@ Collection if libraries starred during some years of Android Development. Here i
 &nbsp;&nbsp;&nbsp;&nbsp;[Camera](#cameraapps)  
 &nbsp;&nbsp;&nbsp;&nbsp;[P2P](#peertopeerapps)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Chat](#chatapps)  
+&nbsp;&nbsp;&nbsp;&nbsp;[Pedometer](#pedometer)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Other](#otherapps)  
 <br>
 <br>
@@ -293,6 +294,7 @@ Collection if libraries starred during some years of Android Development. Here i
 [Sugar](https://github.com/satyan/sugar) | Insanely easy way to work with Android Database. http://satyan.github.com/sugar/
 [Secure Preferences](https://github.com/scottyab/secure-preferences) | Android SharedPreference wrapper that encrypts keys and values of Shared Preferences. It's not bullet proof security but rather a quick win for incrementally making your android app more secure
 [AES Secure Preferences](https://github.com/chrisjenx/android-secure-preferences) | Secure AES Encryiption decorated Android Shared Preferences implementation
+[Snappy DB](https://github.com/nhachicha/SnappyDB) | A key-value database for Android
 
 ### <a name="io">IO
 
@@ -311,6 +313,7 @@ Collection if libraries starred during some years of Android Development. Here i
 [OkHttp](https://github.com/square/okhttp) | An HTTP+SPDY client for Android and Java applications
 [KSOAP 2](https://code.google.com/p/ksoap2-android/) | Lightweight and efficient SOAP client library for the Android platform
 [Android Async Http](https://github.com/loopj/android-async-http) | An Asynchronous HTTP Library for Android
+[SSL TrustKiller](https://github.com/iSECPartners/Android-SSL-TrustKiller) | Bypass SSL certificate pinning for most applications
 
 ### <a name="eventbus">Event Bus
 
@@ -445,6 +448,12 @@ http://square.github.io/otto/
 | :----------: | :--------: |
 [Conversations](https://github.com/siacs/Conversations) | Conversations is an open source XMPP (formally known as Jabber) client for Android 4.0+ smart phones
 [Text Secure](https://github.com/WhisperSystems/TextSecure) | A secure text messaging application for Android
+
+### <a name="pedometer">Pedometer
+
+| Title | Description |
+| :----------: | :--------: |
+[Step Counter](https://github.com/PaitoAnderson/StepCounter) | A Step Counter for Android KitKat devices with Built-in Pedometers
 
 ### <a name="otherapps">Other
 
