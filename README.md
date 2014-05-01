@@ -211,6 +211,7 @@ Collection if libraries starred during some years of Android Development. Here i
 
 | Title | Description |
 | :----------: | :--------: |
+[Android AppMsg](https://github.com/johnkil/Android-AppMsg) | In-layout notifications. Based on Toast notifications and article by Cyril Mottier (http://android.cyrilmottier.com/?p=773)
 [Super Toasts](https://github.com/JohnPersano/SuperToasts) | A library that extends the Android toast framework
 [Message Bar](https://github.com/simonvt/messagebar) | An Android Toast replacement, similar to the one seen in the GMail app. http://simonvt.github.com/MessageBar/
 [Undo Bar](https://github.com/soarcn/UndoBar) | The UI component for Android advanced UI pattern undo-bar, used in Gmail app, create by Roman Nurik. http://soarcn.github.io/UndoBar
