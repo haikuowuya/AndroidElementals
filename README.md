@@ -65,7 +65,8 @@ Collection if libraries starred during some years of Android Development. Here i
 &nbsp;&nbsp;&nbsp;&nbsp;[Camera](#cameraapps)  
 &nbsp;&nbsp;&nbsp;&nbsp;[P2P](#peertopeerapps)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Chat](#chatapps)  
-&nbsp;&nbsp;&nbsp;&nbsp;[Pedometer](#pedometer)  
+&nbsp;&nbsp;&nbsp;&nbsp;[Pedometer](#pedometerapps)  
+&nbsp;&nbsp;&nbsp;&nbsp;[NFC](#nfcapps)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Other](#otherapps)  
 <br>
 <br>
@@ -450,11 +451,17 @@ http://square.github.io/otto/
 [Conversations](https://github.com/siacs/Conversations) | Conversations is an open source XMPP (formally known as Jabber) client for Android 4.0+ smart phones
 [Text Secure](https://github.com/WhisperSystems/TextSecure) | A secure text messaging application for Android
 
-### <a name="pedometer">Pedometer
+### <a name="pedometerapps">Pedometer
 
 | Title | Description |
 | :----------: | :--------: |
 [Step Counter](https://github.com/PaitoAnderson/StepCounter) | A Step Counter for Android KitKat devices with Built-in Pedometers
+
+### <a name="nfcapps">NFC
+
+| Title | Description |
+| :----------: | :--------: |
+[Farebot](https://github.com/codebutler/farebot) | Read data from public transit cards using your NFC Android phone!
 
 ### <a name="otherapps">Other
 
