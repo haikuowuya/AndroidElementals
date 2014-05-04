@@ -197,6 +197,8 @@ Collection if libraries starred during some years of Android Development. Here i
 [Draggable Panel](https://github.com/pedrovgs/DraggablePanel) | Android library used to create an awesome Android UI based on a draggable element similar to the last YouTube graphic component
 [Android Reside Menu](https://github.com/SpecialCyCi/AndroidResideMenu) | The idea of ResideMenu is from Dribbble 1 and 2. It has come true and run in iOS devices. iOS ResideMenu This project is the RefsideMenu Android version. The visual effect is partly referred to iOS version of ResideMenu
 [ShowCase View](https://github.com/amlcurran/ShowcaseView) | Highlight the best bits of your app to users quickly, simply, and cool. http://amlcurran.github.io/ShowcaseView/
+[Foldable Layout](https://github.com/alexvasilkov/FoldableLayout) | Android widgets to implement folding animation
+[Image Layout](https://github.com/ManuelPeinado/ImageLayout) | Android - A layout that arranges its children in relation to a background image
 
 #### <a name="dialogspickersui">Dialogs & Pickers
 
@@ -243,6 +245,7 @@ Collection if libraries starred during some years of Android Development. Here i
 [Slide Expandable ListView](https://github.com/tjerkw/Android-SlideExpandableListView) * | A better ExpandableListView, with animated expandable views for each list item
 [Sticky List Headers](https://github.com/emilsjolander/StickyListHeaders) | An android library for section headers that stick to the top
 [Android ScrollBar Panel](https://github.com/rno/Android-ScrollBarPanel) | Android ScrollBarPanel allows to attach a View to a scroll indicator like it's done in Path 2.0
+[Foldable Layout](https://github.com/alexvasilkov/FoldableLayout) * | Android widgets to implement folding animation
 
 #### <a name="mapsui">Maps
 
