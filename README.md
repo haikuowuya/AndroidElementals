@@ -118,6 +118,7 @@ Collection if libraries starred during some years of Android Development. Here i
 [Google ProgressBar](https://github.com/jpardogo/GoogleProgressBar) | Android library to display progress like google does in some of his services
 [Smooth ProgressBar](https://github.com/castorflex/SmoothProgressBar) | A small Android library allowing you to have a smooth and customizable horizontal indeterminate ProgressBar
 [Progress Wheel](https://github.com/Todd-Davies/ProgressWheel) | A progress wheel for android, intended for use instead of the standard progress bar  
+[Number ProgressBar](https://github.com/daimajia/NumberProgressBar) | A more beautiful, slim, sexy Android progressbar
 
 ###### <a name="listview">ListView
 
