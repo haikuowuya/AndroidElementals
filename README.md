@@ -10,6 +10,7 @@ Collection if libraries starred during some years of Android Development. Here i
 &nbsp;&nbsp;&nbsp;&nbsp;[UI](#ui)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---[Widgets](#widgetsui)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[TextView](#textview)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[Button](#button)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[EditText](#edittext)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[ImageView](#imageview)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[ProgressBar](#progressbar)  
@@ -90,6 +91,12 @@ Collection if libraries starred during some years of Android Development. Here i
 [Shimmer Android](https://github.com/RomainPiel/Shimmer-android) | An Android TextView with a shimmering effect 
 [Titanic](https://github.com/RomainPiel/Titanic) | Android experiment showing a sinking TextView 
 
+###### <a name="button">Button
+
+| Title | Description |
+| :----------: | :--------: |
+[Android Process Button](https://github.com/dmytrodanylyk/android-process-buton) | Custom android button which can indicate progress
+
 ###### <a name="edittext">EditText
 
 | Title | Description |
@@ -114,11 +121,12 @@ Collection if libraries starred during some years of Android Development. Here i
 
 | Title | Description |
 | :----------: | :--------: |
-[Holo Circular ProgressBar](https://github.com/passsy/android-HoloCircularProgressBar) | is a Custom View implementation for Android you might know from the Android Clock
+[Android Holo Circular ProgressBar](https://github.com/passsy/android-HoloCircularProgressBar) | is a Custom View implementation for Android you might know from the Android Clock
 [Google ProgressBar](https://github.com/jpardogo/GoogleProgressBar) | Android library to display progress like google does in some of his services
 [Smooth ProgressBar](https://github.com/castorflex/SmoothProgressBar) | A small Android library allowing you to have a smooth and customizable horizontal indeterminate ProgressBar
 [Progress Wheel](https://github.com/Todd-Davies/ProgressWheel) | A progress wheel for android, intended for use instead of the standard progress bar  
 [Number ProgressBar](https://github.com/daimajia/NumberProgressBar) | A more beautiful, slim, sexy Android progressbar
+[Android Process Button](https://github.com/dmytrodanylyk/android-process-buton) * | Custom android button which can indicate progress
 
 ###### <a name="listview">ListView
 
@@ -126,7 +134,7 @@ Collection if libraries starred during some years of Android Development. Here i
 | :----------: | :--------: |
 [Flabby ListView](https://github.com/jpardogo/FlabbyListView) | Android library to display a ListView which cells are not rigid but flabby and react to ListView scroll and touch events
 [Dob List](https://github.com/bilalsammour/DobList) | DobLis is an Open Source Android library that provides to ListView adding ProgressBar (or any view) to the footer of ListView to be shown in loading more, and callback that is called when reaching last item in ListView
-[Swipe ListView](https://github.com/47deg/android-swipelistview) | An Android List View implementation with support for drawable cells and many other swipe related features
+[Android Swipe ListView](https://github.com/47deg/android-swipelistview) | An Android List View implementation with support for drawable cells and many other swipe related features
 [Multi Choice Adapter](https://github.com/ManuelPeinado/MultiChoiceAdapter) | A ListView adapter with support for multiple choice modal selection
 [Jazzy ListView](https://github.com/twotoasters/JazzyListView) | JazzyListView is an extension of ListView designed to animate list item views as they become visible
 [ListView Animations](https://github.com/nhaarman/ListViewAnimations) | An Android library which allows developers to easily add animations to ListView items
@@ -138,9 +146,9 @@ Collection if libraries starred during some years of Android Development. Here i
 | Title | Description |
 | :----------: | :--------: |
 [Jazzy ViewPager](https://github.com/jfeinstein10/JazzyViewPager) | An easy to use ViewPager that adds an awesome set of custom swiping animations. Just change your ViewPagers to JazzyViewPagers, two more steps, and you're good to go!
-[ViewPager Indicator](https://github.com/JakeWharton/Android-ViewPagerIndicator) | Paging indicator widgets compatible with the ViewPager from the Android Support Library and ActionBarSherlock
+[Android ViewPager Indicator](https://github.com/JakeWharton/Android-ViewPagerIndicator) | Paging indicator widgets compatible with the ViewPager from the Android Support Library and ActionBarSherlock
 [Salvage](https://github.com/JakeWharton/salvage) | Generic view recycler and ViewPager PagerAdapter implementation
-[Auto Scroll ViewPager](https://github.com/Trinea/android-auto-scroll-view-pager) | auto scroll ViewPager or ViewPager in ViewPager. http://www.trinea.cn/
+[Android Auto Scroll ViewPager](https://github.com/Trinea/android-auto-scroll-view-pager) | auto scroll ViewPager or ViewPager in ViewPager. http://www.trinea.cn/
 [Pager Sliding Tab Strip](https://github.com/astuetz/PagerSlidingTabStrip) | An interactive indicator to navigate between the different pages of a ViewPager
 [Numeric Page Indicator](https://github.com/ManuelPeinado/NumericPageIndicator) | A ViewPager page indicator that displays the current page number and (optionally) the page count
 [Wizard Pager](https://github.com/TechFreak/WizardPager) | Wizard Pager is a library that provides an example implementation of a Wizard UI on Android, it's based of Roman Nurik's wizard pager (https://code.google.com/p/romannurik-code/source/browse/misc/wizardpager)
@@ -180,7 +188,7 @@ Collection if libraries starred during some years of Android Development. Here i
 | :----------: | :--------: |
 [Android Sliding Up Panel](https://github.com/umano/AndroidSlidingUpPanel) | This type of a panel is a common pattern also used in the Google Music app and the Rdio app
 [DobSliding](https://github.com/Startappz/DobSliding) | DobSliding is an Open Source Android library that allows developers to develop applications with vertical sliding menus just like the Android notifications menu
-[Menu Drawer](https://github.com/SimonVT/android-menudrawer) | A slide-out menu implementation, which allows users to navigate between views in your app. http://simonvt.github.com/android-menudrawer/
+[Android Menu Drawer](https://github.com/SimonVT/android-menudrawer) | A slide-out menu implementation, which allows users to navigate between views in your app. http://simonvt.github.com/android-menudrawer/
 [Sliding Menu](https://github.com/jfeinstein10/SlidingMenu) | An Android library that allows you to easily create applications with slide-in menus
 [Side Navigation](https://github.com/johnkil/SideNavigation) | Implementation of "SIde Navigation" or "Fly-in app menu" pattern for Android (based on Google+ app). http://johnkil.github.com/SideNavigation
 
@@ -317,9 +325,9 @@ Collection if libraries starred during some years of Android Development. Here i
 [Android Volley](https://github.com/mcxiaoke/android-volley) | Android Volley Mirror
 [Retrofit](https://github.com/square/retrofit) | Type-safe REST client for Android and Java by Square, Inc
 [OkHttp](https://github.com/square/okhttp) | An HTTP+SPDY client for Android and Java applications
-[KSOAP 2](https://code.google.com/p/ksoap2-android/) | Lightweight and efficient SOAP client library for the Android platform
+[KSOAP 2 Android](https://code.google.com/p/ksoap2-android/) | Lightweight and efficient SOAP client library for the Android platform
 [Android Async Http](https://github.com/loopj/android-async-http) | An Asynchronous HTTP Library for Android
-[SSL TrustKiller](https://github.com/iSECPartners/Android-SSL-TrustKiller) | Bypass SSL certificate pinning for most applications
+[Android SSL TrustKiller](https://github.com/iSECPartners/Android-SSL-TrustKiller) | Bypass SSL certificate pinning for most applications
 
 ### <a name="eventbus">Event Bus
 
