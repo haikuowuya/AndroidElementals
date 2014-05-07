@@ -90,6 +90,7 @@ Collection if libraries starred during some years of Android Development. Here i
 [Email AutoComplete TextView](https://github.com/greenhalolabs/EmailAutoCompleteTextView) | An AutoCompleteTextView optimized for email auto-complete 
 [Shimmer Android](https://github.com/RomainPiel/Shimmer-android) | An Android TextView with a shimmering effect 
 [Titanic](https://github.com/RomainPiel/Titanic) | Android experiment showing a sinking TextView 
+[Blink TextView](https://github.com/frakbot/BlinkTextView) | Remember the '90s? Geocities? Blinking text? Dat. On Android
 
 ###### <a name="button">Button
 
@@ -104,6 +105,7 @@ Collection if libraries starred during some years of Android Development. Here i
 [Float Label EditText](https://github.com/wrapp/floatlabelededittext) | Floating hint from edit text
 [EditText Mentions](https://github.com/pepibumur/EditTextMentions) | EditText subclass with mentions detection (like Facebook or Twitter)
 [History EditText](https://github.com/zenlibs/HistoryEditText) | Android EditText that auto-saves previous values and displays them in a dropdown when used again
+[Single Input Form](https://github.com/flavienlaurent/singleinputform) | A single EditText instead of a classical form
 
 
 ###### <a name="imageview">ImageView
