@@ -34,6 +34,11 @@ Collection if libraries starred during some years of Android Development. Here i
 &nbsp;&nbsp;&nbsp;&nbsp;[Location](#location)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Social](#social)  
 &nbsp;&nbsp;&nbsp;&nbsp;[DB & Preferences](#database)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[ContentProvider / ContentResolver / Cursor](#databasecp)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[Preferences](#databasepreferences)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |---[Other](#databaseother)  
+
+
 &nbsp;&nbsp;&nbsp;&nbsp;[IO](#io)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Network](#network)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Event Bus](#eventbus)  
@@ -301,16 +306,29 @@ Collection if libraries starred during some years of Android Development. Here i
 
 ### <a name="database">DB & Preferences
 
+###### <a name="databasecp">ContentProvider / ContentResolver / Cursor
+
 | Title | Description |
 | :----------: | :--------: |
-[Android SQLite Asset Helper](https://github.com/jgilfelt/android-sqlite-asset-helper) | An Android helper class to manage database creation and version management using an application's raw asset files
-[Cupboard](https://bitbucket.org/qbusict/cupboard) | Cupboard for Android is simple persistence that gets out of your way and is easy to add to your existing code base
-[Sprinkles](https://github.com/emilsjolander/sprinkles) | Sprinkles is a boiler-plate-reduction-library for dealing with databases in android applications
+[Android DB Commons](https://github.com/futuresimple/android-db-commons) | Some common utilities for ContentProvider/ContentResolver/Cursor and other db-related android stuff
+
+###### <a name="databasepreferences">Preferences
+
+| Title | Description |
+| :----------: | :--------: |
 [Esperandro](https://github.com/dkunzler/esperandro) | Easy SharedPreference Engine for Android
-[Sugar](https://github.com/satyan/sugar) | Insanely easy way to work with Android Database. http://satyan.github.com/sugar/
 [Secure Preferences](https://github.com/scottyab/secure-preferences) | Android SharedPreference wrapper that encrypts keys and values of Shared Preferences. It's not bullet proof security but rather a quick win for incrementally making your android app more secure
 [AES Secure Preferences](https://github.com/chrisjenx/android-secure-preferences) | Secure AES Encryiption decorated Android Shared Preferences implementation
+
+###### <a name="databaseother">Other
+
+| Title | Description |
+| :----------: | :--------: |
 [Snappy DB](https://github.com/nhachicha/SnappyDB) | A key-value database for Android
+[Cupboard](https://bitbucket.org/qbusict/cupboard) | Cupboard for Android is simple persistence that gets out of your way and is easy to add to your existing code base
+[Android SQLite Asset Helper](https://github.com/jgilfelt/android-sqlite-asset-helper) | An Android helper class to manage database creation and version management using an application's raw asset files
+[Sprinkles](https://github.com/emilsjolander/sprinkles) | Sprinkles is a boiler-plate-reduction-library for dealing with databases in android applications
+[Sugar](https://github.com/satyan/sugar) | Insanely easy way to work with Android Database. http://satyan.github.com/sugar/
 
 ### <a name="io">IO
 
