@@ -205,7 +205,6 @@ Collection if libraries starred during some years of Android Development. Here i
 | :----------: | :--------: |
 [Android FlipView](https://github.com/emilsjolander/android-FlipView) | A small, easy to use android library for implementing flipping between views as seen in the popular Flipboard application
 [Android Flip](https://github.com/openaphid/android-flip) | A component for flip animation on Android, which is similar to the effect in Flipboard iPhone/Android
-[Showcase View](https://github.com/amlcurran/ShowcaseView) | Highlight the best bits of your app to users quickly, simply, and cool...ly
 [Android PDF View](https://github.com/JoanZapata/android-pdfview) | A fast PDF reader component for Android development
 [Android ViewBadger](https://github.com/jgilfelt/android-viewbadger) | A simple way to "badge" any given Android view at runtime without having to cater for it in layout
 [Quilt View Library](https://github.com/jacobmoncur/QuiltViewLibrary) | QuiltView displays views of different sizes in a scrollable grid
@@ -303,6 +302,7 @@ Collection if libraries starred during some years of Android Development. Here i
 [Twitter 4J](https://github.com/yusuke/twitter4j) | Twitter4J is an open-sourced, mavenized and Google App Engine safe Java library for the Twitter API 
 [Twitter Android SDK](https://github.com/sephiroth74/TwitterAndroidSDK) | Twitter SDK for Android, using Twitter4j
 [Facebook Android SDK](https://github.com/facebook/facebook-android-sdk) | Use the Facebook SDK for Android to integrate with Facebook, help build engaging social apps
+[Android Social Networks](https://github.com/antonkrasov/AndroidSocialNetworks) | Library for easy work with Facebook, Twitter, LinkedIn and Google on Android
 
 ### <a name="database">DB & Preferences
 
@@ -311,6 +311,7 @@ Collection if libraries starred during some years of Android Development. Here i
 | Title | Description |
 | :----------: | :--------: |
 [Android DB Commons](https://github.com/futuresimple/android-db-commons) | Some common utilities for ContentProvider/ContentResolver/Cursor and other db-related android stuff
+[Schematic](https://github.com/SimonVT/schematic) | Automatically generate ContentProviders 
 
 ###### <a name="databasepreferences">Preferences
 
@@ -501,6 +502,8 @@ http://square.github.io/otto/
 | :----------: | :--------: |
 [Gaug.es Android](https://github.com/fastestforward/gauges-android) | Gaug.es Android App
 [White House Android](https://github.com/WhiteHouse/wh-app-android) | White House application for Android
+[Ac Display](https://github.com/AChep/AcDisplay) | AcDisplay is a new way of handling notifications in Android. 
+http://acdisplay.artemchep.com
 
 <br><br>
 
