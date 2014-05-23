@@ -61,6 +61,7 @@ Collection if libraries starred during some years of Android Development. Here i
 
 [TOOLS](#tools)  
 ***
+&nbsp;&nbsp;&nbsp;&nbsp;[Proguard](#proguardtools)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Testing](#testingtools)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Log](#logtools)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Localization](#localizationtools)  
@@ -439,6 +440,12 @@ http://square.github.io/otto/
 <br><br>
 
 ## <a name="tools">Tools
+
+### <a name="proguardtools">Proguard
+
+| Title | Description |
+| :----------: | :--------: |
+[Facebook Proguard](https://github.com/facebook/proguard) | A faster fork of ProGuard. Based off of ProGuard 4.11 (http://sourceforge.net/p/proguard/code/ci/proguard4.11/tree/)
 
 ### <a name="testingtools">Testing
 
