@@ -160,6 +160,7 @@ Collection if libraries starred during some years of Android Development. Here i
 [Pager Sliding Tab Strip](https://github.com/astuetz/PagerSlidingTabStrip) | An interactive indicator to navigate between the different pages of a ViewPager
 [Numeric Page Indicator](https://github.com/ManuelPeinado/NumericPageIndicator) | A ViewPager page indicator that displays the current page number and (optionally) the page count
 [Wizard Pager](https://github.com/TechFreak/WizardPager) | Wizard Pager is a library that provides an example implementation of a Wizard UI on Android, it's based of Roman Nurik's wizard pager (https://code.google.com/p/romannurik-code/source/browse/misc/wizardpager)
+[ViewPager Transformations](https://github.com/ToxicBakery/ViewPagerTransforms) | Library containing common animations needed for transforming ViewPager scrolling for Android v13+
 
 ###### <a name="seekbar">SeekBar
 
