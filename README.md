@@ -511,9 +511,8 @@ http://square.github.io/otto/
 | :----------: | :--------: |
 [Gaug.es Android](https://github.com/fastestforward/gauges-android) | Gaug.es Android App
 [White House Android](https://github.com/WhiteHouse/wh-app-android) | White House application for Android
-[Ac Display](https://github.com/AChep/AcDisplay) | AcDisplay is a new way of handling notifications in Android. 
+[Ac Display](https://github.com/AChep/AcDisplay) | AcDisplay is a new way of handling notifications in Android. http://acdisplay.artemchep.com
 [Google I/O](https://github.com/google/iosched) | Google I/O application
-http://acdisplay.artemchep.com
 
 <br><br>
 
