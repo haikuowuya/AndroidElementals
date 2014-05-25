@@ -313,7 +313,8 @@ Collection if libraries starred during some years of Android Development. Here i
 | Title | Description |
 | :----------: | :--------: |
 [Android DB Commons](https://github.com/futuresimple/android-db-commons) | Some common utilities for ContentProvider/ContentResolver/Cursor and other db-related android stuff
-[Schematic](https://github.com/SimonVT/schematic) | Automatically generate ContentProviders 
+[Schematic](https://github.com/SimonVT/schematic) | Automatically generate ContentProviders  
+[Android Content Provider Generator](https://github.com/BoD/android-contentprovider-generator) | A small tool to generate an Android ContentProvider
 
 ###### <a name="databasepreferences">Preferences
 
@@ -511,6 +512,7 @@ http://square.github.io/otto/
 [Gaug.es Android](https://github.com/fastestforward/gauges-android) | Gaug.es Android App
 [White House Android](https://github.com/WhiteHouse/wh-app-android) | White House application for Android
 [Ac Display](https://github.com/AChep/AcDisplay) | AcDisplay is a new way of handling notifications in Android. 
+[Google I/O](https://github.com/google/iosched) | Google I/O application
 http://acdisplay.artemchep.com
 
 <br><br>
