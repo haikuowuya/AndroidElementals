@@ -74,6 +74,7 @@ Collection if libraries starred during some years of Android Development. Here i
 &nbsp;&nbsp;&nbsp;&nbsp;[Chat](#chatapps)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Pedometer](#pedometerapps)  
 &nbsp;&nbsp;&nbsp;&nbsp;[NFC](#nfcapps)  
+&nbsp;&nbsp;&nbsp;&nbsp;[Media](#mediaapps)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Other](#otherapps)  
 <br>
 <br>
@@ -216,6 +217,7 @@ Collection if libraries starred during some years of Android Development. Here i
 [ShowCase View](https://github.com/amlcurran/ShowcaseView) | Highlight the best bits of your app to users quickly, simply, and cool. http://amlcurran.github.io/ShowcaseView/
 [Foldable Layout](https://github.com/alexvasilkov/FoldableLayout) | Android widgets to implement folding animation
 [Image Layout](https://github.com/ManuelPeinado/ImageLayout) | Android - A layout that arranges its children in relation to a background image
+[Swipeable cards](https://github.com/kikoso/Swipeable-Cards) | A native library providing a Tinder-like cards effect. A card can be constructed using an image and displayed with animation effects, dismiss-to-like and dismiss-to-unlike, and use different sorting mechanisms
 
 #### <a name="dialogspickersui">Dialogs & Pickers
 
@@ -504,6 +506,14 @@ http://square.github.io/otto/
 | Title | Description |
 | :----------: | :--------: |
 [Farebot](https://github.com/codebutler/farebot) | Read data from public transit cards using your NFC Android phone!
+
+
+### <a name="mediaapps">Media
+
+| Title | Description |
+| :----------: | :--------: |
+[Mizuu](https://github.com/MizzleDK/Mizuu) | Popular media indexer app for Android. http://mizuu.tv
+
 
 ### <a name="otherapps">Other
 
