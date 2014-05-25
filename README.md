@@ -523,7 +523,7 @@ http://square.github.io/otto/
 [White House Android](https://github.com/WhiteHouse/wh-app-android) | White House application for Android
 [Ac Display](https://github.com/AChep/AcDisplay) | AcDisplay is a new way of handling notifications in Android. http://acdisplay.artemchep.com
 [Google I/O](https://github.com/google/iosched) | Google I/O application
-
+[Wordpress Android](https://github.com/wordpress-mobile/WordPress-Android) | WordPress for Android. http://android.wordpress.org
 <br><br>
 
 
