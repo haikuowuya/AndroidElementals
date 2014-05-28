@@ -98,6 +98,7 @@ Collection if libraries starred during some years of Android Development. Here i
 [Shimmer Android](https://github.com/RomainPiel/Shimmer-android) | An Android TextView with a shimmering effect 
 [Titanic](https://github.com/RomainPiel/Titanic) | Android experiment showing a sinking TextView 
 [Blink TextView](https://github.com/frakbot/BlinkTextView) | Remember the '90s? Geocities? Blinking text? Dat. On Android
+[Secret TextView](https://github.com/matthewrkula/SecretTextView) | A TextView that simulates the effect from the app Secret where the characters fade in/out at different speeds
 
 ###### <a name="button">Button
 
