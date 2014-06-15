@@ -126,6 +126,7 @@ Collection if libraries starred during some years of Android Development. Here i
 [Custom Shape ImageView](https://github.com/MostafaGazar/CustomShapeImageView) | Custom shape ImageView using PorterDuffXfermode with paint shapes and SVGs
 [Rounded ImageView](https://github.com/vinc3m1/RoundedImageView) | a fast ImageView that supports rounded corners and ovals or circles
 [Flip ImageView](https://github.com/castorflex/FlipImageView) | Small android lib allowing you to make a flip imageview easily, by extending FlipImageView
+[Glide](https://github.com/bumptech/glide) | An image loading and caching library for Android focused on smooth scrolling
 
 ###### <a name="progressbar">ProgressBar
 
@@ -150,6 +151,7 @@ Collection if libraries starred during some years of Android Development. Here i
 [ListView Animations](https://github.com/nhaarman/ListViewAnimations) | An Android library which allows developers to easily add animations to ListView items
 [Slide Expandable ListView](https://github.com/tjerkw/Android-SlideExpandableListView) | A better ExpandableListView, with animated expandable views for each list item
 [Swipe ListView](https://github.com/47deg/android-swipelistview) | An Android List View implementation with support for drawable cells and many other swipe related features
+[Super ListView](https://github.com/dommerq/SuperListview) | Way more than just a listview
 
 ###### <a name="viewpager">ViewPager
 
