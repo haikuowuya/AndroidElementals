@@ -516,6 +516,7 @@ http://square.github.io/otto/
 | Title | Description |
 | :----------: | :--------: |
 [Mizuu](https://github.com/MizzleDK/Mizuu) | Popular media indexer app for Android. http://mizuu.tv
+[Exo Player](https://github.com/google/ExoPlayer) | Google Media Player Open Source project
 
 
 ### <a name="otherapps">Other
