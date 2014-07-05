@@ -268,6 +268,9 @@ Collection if libraries starred during some years of Android Development. Here i
 [Sticky List Headers](https://github.com/emilsjolander/StickyListHeaders) | An android library for section headers that stick to the top
 [Android ScrollBar Panel](https://github.com/rno/Android-ScrollBarPanel) | Android ScrollBarPanel allows to attach a View to a scroll indicator like it's done in Path 2.0
 [Foldable Layout](https://github.com/alexvasilkov/FoldableLayout) * | Android widgets to implement folding animation
+[Animation Easing Functions](https://github.com/daimajia/AnimationEasingFunctions) | Android Animation Easing Functions. Let's make animation more real!
+[Android View Animations](https://github.com/daimajia/AndroidViewAnimations) | Cute view animation collection
+
 
 #### <a name="mapsui">Maps
 
