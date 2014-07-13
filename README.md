@@ -30,6 +30,7 @@ Collection if libraries starred during some years of Android Development. Here i
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---[Maps](#mapsui)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---[Validation](#validationui)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---[Camera](#cameraui)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---[Charts](#chartsui)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---[Other](#otherui)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Location](#location)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Social](#social)  
@@ -289,6 +290,12 @@ Collection if libraries starred during some years of Android Development. Here i
 | Title | Description |
 | :----------: | :--------: |
 [Easy Camera](https://github.com/Glamdring/EasyCamera) | Wrapper around the android Camera class that simplifies its usage
+
+#### <a name="chartsui">Charts
+
+| Title | Description |
+| :----------: | :--------: |
+[Eaze Graph](https://github.com/blackfizz/EazeGraph) | An Android chart and graph library
 
 #### <a name="otherui">Other
 
