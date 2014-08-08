@@ -534,6 +534,7 @@ http://square.github.io/otto/
 
 | Title | Description |
 | :----------: | :--------: |
+[Financius](https://github.com/mvarnagiris/Financius) | Personal expense manager
 [Gaug.es Android](https://github.com/fastestforward/gauges-android) | Gaug.es Android App
 [White House Android](https://github.com/WhiteHouse/wh-app-android) | White House application for Android
 [Ac Display](https://github.com/AChep/AcDisplay) | AcDisplay is a new way of handling notifications in Android. http://acdisplay.artemchep.com
