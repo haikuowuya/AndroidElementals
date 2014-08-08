@@ -540,6 +540,9 @@ http://square.github.io/otto/
 [Ac Display](https://github.com/AChep/AcDisplay) | AcDisplay is a new way of handling notifications in Android. http://acdisplay.artemchep.com
 [Google I/O](https://github.com/google/iosched) | Google I/O application
 [Wordpress Android](https://github.com/wordpress-mobile/WordPress-Android) | WordPress for Android. http://android.wordpress.org
+[One Bus Away](https://github.com/OneBusAway/onebusaway-android) | The official Android app for OneBusAway. 
+http://www.onebusaway.org/
+
 <br><br>
 
 
