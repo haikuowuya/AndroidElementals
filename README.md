@@ -297,6 +297,7 @@ Collection if libraries starred during some years of Android Development. Here i
 | Title | Description |
 | :----------: | :--------: |
 [Eaze Graph](https://github.com/blackfizz/EazeGraph) | An Android chart and graph library
+[WilliamChart](https://github.com/diogobernardino/WilliamChart) | Flexible charting library with nice motion capabilities
 
 #### <a name="otherui">Other
 
