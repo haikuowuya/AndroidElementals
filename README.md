@@ -161,6 +161,7 @@ Collection if libraries starred during some years of Android Development. Here i
 | Title | Description |
 | :----------: | :--------: |
 [Android Sliding Up Panel](https://github.com/umano/AndroidSlidingUpPanel) * | Android Sliding Up Panel Demo
+[Swipper](https://github.com/pkarira/Swipper) * | Android library for swipable gestures
 [Android FlipView](https://github.com/emilsjolander/android-FlipView) * | A small, easy to use android library for implementing flipping between views as seen in the popular Flipboard application 
 [Android Flip](https://github.com/openaphid/android-flip) * | A component for flip animation on Android, which is similar to the effect in Flipboard iPhone/Android
 [Flabby ListView](https://github.com/jpardogo/FlabbyListView) * | Android library to display a ListView which cells are not rigid but flabby and react to ListView scroll and touch events
